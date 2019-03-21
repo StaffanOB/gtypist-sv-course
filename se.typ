@@ -1,5 +1,5 @@
 # Swedish Complete Touch Typing Cource
-#     Created by Staffan Björnson <staffan@toor.se>
+#     Created by Staffan Bjärnson <staffan@toor.se>
 #     Date: 2019-03-21
 #
 # This work is based on the work of:
@@ -7,15 +7,15 @@
 #        Gunther Strube,  gstrube@tiscali.dk og
 #        Anja Lysholm, anjal@danbbs.d
 #
-#    "Lär maskinskrivning i Folke- og Ungdomsskolen"
-#        Kamma Jensen & Jytte Möller
+#    "Lör maskinskrivning i Folke- og Ungdomsskolen"
+#        Kamma Jensen & Jytte Mäller
 #        ISBN 87-17-02200-2
 
 G:MENU
 
 *:S_LESSON1
 K:12:MENU
-B:         Lesson 1: Lektion 1. Grundposition: asdf och jklä
+B:         Lesson 1: Lektion 1. Grundposition: asdf och jklö
 *:LESSON1_D1
 I:(1)
 D:fff jjj fff jjj fff jjj fff jjj fff jjj fff jjj fff jjj
@@ -25,38 +25,38 @@ D:fff jjj fff jjj fff jjj fff jjj fff jjj fff jjj fff jjj
 *:LESSON1_D2
 I:(2)
 D:fjdk fjdk fjdk fjdk fjdk fjdk fjdk fjdk fjdk fjdk fjdk
- :aaa äää aaa äää aaa äää aaa äää aaa äää aaa äää aaa äää
+ :aaa ööö aaa ööö aaa ööö aaa ööö aaa ööö aaa ööö aaa ööö
  :sss lll sss lll sss lll sss lll sss lll sss lll sss lll
- :aaa äää sss lll aaa äää sss lll aaa äää sss lll aaa äää
+ :aaa ööö sss lll aaa ööö sss lll aaa ööö sss lll aaa ööö
 *:LESSON1_D3
 I:(3)
-D:aaa äää sss lll aaa äää sss lll aaa äää sss lll aaa äää
- :aäsl aäsl aäsl aäsl aäsl aäsl aäsl aäsl aäsl aäsl aäsl
- :aäsldkfjdkslaäsldkfjdkslaäsldkfjdkslaäsldkfjdkslaä
- :aäsldkfjdkslaäsldkfjdkslaäsldkfjdkslaäsldkfjdkslaä
+D:aaa ööö sss lll aaa ööö sss lll aaa ööö sss lll aaa ööö
+ :aösl aösl aösl aösl aösl aösl aösl aösl aösl aösl aösl
+ :aösldkfjdkslaösldkfjdkslaösldkfjdkslaösldkfjdkslaö
+ :aösldkfjdkslaösldkfjdkslaösldkfjdkslaösldkfjdkslaö
 *:LESSON1_D4
 I:(4)
-D:lak kaj säd fäl aks las däk sad läk säl sal dal jas
- :lak kaj säd fäl aks las däk sad läk säl sal dal jas
- :lak kaj säd fäl aks las däk sad läk säl sal dal jas
- :laks skal kald skaf kaja saks själ kläd släk fjas kälk
+D:lak kaj söd föl aks las dök sad lök söl sal dal jas
+ :lak kaj söd föl aks las dök sad lök söl sal dal jas
+ :lak kaj söd föl aks las dök sad lök söl sal dal jas
+ :laks skal kald skaf kaja saks sjöl klöd slök fjas kölk
 *:LESSON1_D5
 I:(5)
-D:laks skal kald skaf kaja saks själ kläd släk fjas kälk
- :laks skal kald skaf kaja saks själ kläd släk fjas kälk
- :falsk sjask skala fläsk skjald afkald lakaj kajak aflad
- :falsk sjask skala fläsk skjald afkald lakaj kajak aflad
+D:laks skal kald skaf kaja saks sjöl klöd slök fjas kölk
+ :laks skal kald skaf kaja saks sjöl klöd slök fjas kölk
+ :falsk sjask skala flösk skjald afkald lakaj kajak aflad
+ :falsk sjask skala flösk skjald afkald lakaj kajak aflad
 *:LESSON1_D6
 I:(6)
-D:falsk sjask skala fläsk skjald afkald lakaj kajak aflad
- :säk käd alf läs kala lajka affald sjakal kasak jaffa
- :säk käd alf läs kala lajka affald sjakal kasak jaffa
- :säk käd alf läs kala lajka affald sjakal kasak jaffa
+D:falsk sjask skala flösk skjald afkald lakaj kajak aflad
+ :sök köd alf lös kala lajka affald sjakal kasak jaffa
+ :sök köd alf lös kala lajka affald sjakal kasak jaffa
+ :sök köd alf lös kala lajka affald sjakal kasak jaffa
 G:E_LESSON1
 
 *:S_LESSON2
 K:12:MENU
-B:              Lesson 2: Lektion 2. Nya bokstäver: ecb
+B:              Lesson 2: Lektion 2. Nya bokstöver: ecb
 *:LESSON2_D1
 I:(1)
 D:fbf fbf fbf fbf fbf fbf fbf fbf fbf fbf fbf fbf
@@ -65,36 +65,36 @@ D:fbf fbf fbf fbf fbf fbf fbf fbf fbf fbf fbf fbf
  :fff jjj ddd kkk fff jjj ddd kkk fff jjj ddd kkk fff jjj
 *:LESSON2_D2
 I:(2)
-D:aaa äää sss lll aaa äää sss lll aaa äää sss lll aaa äää
- :fjdkslaä fjdkslaä fjdkslaä fjdkslaä fjdkslaä fjdkslaä
+D:aaa ööö sss lll aaa ööö sss lll aaa ööö sss lll aaa ööö
+ :fjdkslaö fjdkslaö fjdkslaö fjdkslaö fjdkslaö fjdkslaö
  :abcdef abcdef abcdef abcdef abcdef abcdef abcdef abcdef
  :abcdef abcdef abcdef abcdef abcdef abcdef abcdef abcdef
 *:LESSON2_D3
 I:(3)
 D:abcdfe abcdfe abcdfe abcdfe abcdfe abcdfe abcdfe abcdfe
- :bede bjälke bakke bede bjälke bakke bede bjälke bakke
- :bede bjälke bakke bede bjälke bakke bede bjälke bakke
- :bede bjälke bakke bede bjälke bakke bede bjälke bakke
+ :bede bjölke bakke bede bjölke bakke bede bjölke bakke
+ :bede bjölke bakke bede bjölke bakke bede bjölke bakke
+ :bede bjölke bakke bede bjölke bakke bede bjölke bakke
 *:LESSON2_D4
 I:(4)
-D:celle decca bjälde celle decca bjälde celle decca bjälde
- :celle decca bjälde celle decca bjälde celle decca bjälde
- :celle decca bjälde celle decca bjälde celle decca bjälde
- :bekläde daske kälk bekläde daske kälk bekläde daske kälk
+D:celle decca bjölde celle decca bjölde celle decca bjölde
+ :celle decca bjölde celle decca bjölde celle decca bjölde
+ :celle decca bjölde celle decca bjölde celle decca bjölde
+ :beklöde daske kölk beklöde daske kölk beklöde daske kölk
 *:LESSON2_D5
 I:(5)
-D:bekläde daske kälk bekläde daske kälk bekläde daske kälk
- :bekläde daske kälk bekläde daske kälk bekläde daske kälk
- :kalde ballade bläse kalde ballade bläse kalde ballade bläse
- :kalde ballade bläse kalde ballade bläse kalde ballade bläse
+D:beklöde daske kölk beklöde daske kölk beklöde daske kölk
+ :beklöde daske kölk beklöde daske kölk beklöde daske kölk
+ :kalde ballade blöse kalde ballade blöse kalde ballade blöse
+ :kalde ballade blöse kalde ballade blöse kalde ballade blöse
 *:LESSON2_D6
 I:(6)
-D:kalde ballade bläse kalde ballade bläse kalde ballade bläse
+D:kalde ballade blöse kalde ballade blöse kalde ballade blöse
 G:E_LESSON2
 
 *:S_LESSON3
 K:12:MENU
-B:              Lesson 3: Lektion 3. Nya bokstäver: ghi
+B:              Lesson 3: Lektion 3. Nya bokstöver: ghi
 *:LESSON3_D1
 I:(1)
 D:fgf fgf fgf fgf fgf fgf fgf fgf fgf fgf fgf fgf
@@ -106,7 +106,7 @@ I:(2)
 D:ghijkl ghijkl ghijkl ghijkl ghijkl ghijkl ghijkl ghijkl
  :ghijkl ghijkl ghijkl ghijkl ghijkl ghijkl ghijkl ghijkl
  :hagl cif hagl cif hagl cif hagl cif hagl cif hagl cif
- :sled bäk sled bäk sled bäk sled bäk sled bäk sled bäk
+ :sled bök sled bök sled bök sled bök sled bök sled bök
 *:LESSON3_D3
 I:(3)
 D:illegal kaglede silkeslag illegal kaglede silkeslag
@@ -122,8 +122,8 @@ D:chik check hellas chik check hellas chik check hellas
 *:LESSON3_D5
 I:(5)
 D:cecilia klike skik cecilia klike skik cecilia klike skik
- :fjeld äsel fjeld äsel fjeld äsel fjeld äsel fjeld äsel
- :fjeld äsel fjeld äsel fjeld äsel fjeld äsel fjeld äsel
+ :fjeld ösel fjeld ösel fjeld ösel fjeld ösel fjeld ösel
+ :fjeld ösel fjeld ösel fjeld ösel fjeld ösel fjeld ösel
  :hib kage hib kage hib kage hib kage hib kage hib kage
 *:LESSON3_D6
 I:(6)
@@ -132,7 +132,7 @@ G:E_LESSON3
 
 *:S_LESSON4
 K:12:MENU
-B:              Lesson 4: Lektion 4. Nya bokstäver: mno
+B:              Lesson 4: Lektion 4. Nya bokstöver: mno
 *:LESSON4_D1
 I:(1)
 D:jmj jmj jmj jmj jmj jmj jmj jmj jmj jmj jmj jmj
@@ -150,18 +150,18 @@ I:(3)
 D:modesag mad film modesag mad film modesag mad film
  :modesag mad film modesag mad film modesag mad film
  :modesag mad film modesag mad film modesag mad film
- :nominel bon nälden nominel bon nälden nominel bon nälden
+ :nominel bon nölden nominel bon nölden nominel bon nölden
 *:LESSON4_D4
 I:(4)
-D:nominel bon nälden nominel bon nälden nominel bon nälden
- :nominel bon nälden nominel bon nälden nominel bon nälden
+D:nominel bon nölden nominel bon nölden nominel bon nölden
+ :nominel bon nölden nominel bon nölden nominel bon nölden
  :mon han kan komme i dag
  :de kom med den falske seddel
 *:LESSON4_D5
 I:(5)
 D:mon de ikke nok kan skaffe dem
  :benene kan ikke holde
- :mona og lise kan sälge fisk
+ :mona og lise kan sölge fisk
  :officiel node olie officiel node olie officiel node olie
 *:LESSON4_D6
 I:(6)
@@ -171,10 +171,10 @@ G:E_LESSON4
 
 *:S_LESSON5
 K:12:MENU
-B:              Lesson 5: Lektion 5. Nya bokstäver: pqr
+B:              Lesson 5: Lektion 5. Nya bokstöver: pqr
 *:LESSON5_D1
 I:(1)
-D:äpä äpä äpä äpä äpä äpä äpä äpä äpä äpä äpä äpä
+D:öpö öpö öpö öpö öpö öpö öpö öpö öpö öpö öpö öpö
  :aqa aqa aqa aqa aqa aqa aqa aqa aqa aqa aqa aqa
  :frf frf frf frf frf frf frf frf frf frf frf frf
  :abcdef abcdef abcdef abcdef abcdef abcdef abcdef abcdef
@@ -242,13 +242,13 @@ D:stroppetur stopur slutspurt stroppetur stopur slutspurt
  :vejr vrangen savne vejr vrangen savne vejr vrangen savne
 *:LESSON6_D5
 I:(5)
-D:lär de unge hvordan de skal tänke
- :ikke hvad de skal tänke
- :hvor alle tänker det samme
- :er der ikke nogen der tänker ret meget
+D:lör de unge hvordan de skal tönke
+ :ikke hvad de skal tönke
+ :hvor alle tönker det samme
+ :er der ikke nogen der tönker ret meget
 *:LESSON6_D6
 I:(6)
-D:den tänker ikke godt som ikke tänker en gang til
+D:den tönker ikke godt som ikke tönker en gang til
  :wigwam wienerbarn wigwam wienerbarn wigwam wienerbarn
  :wigwam wienerbarn wigwam wienerbarn wigwam wienerbarn
  :wigwam wienerbarn wigwam wienerbarn wigwam wienerbarn
@@ -256,19 +256,19 @@ G:E_LESSON6
 
 *:S_LESSON7
 K:12:MENU
-B:             Lesson 7: Lektion 7. Nye bogstaver: zxyö
+B:             Lesson 7: Lektion 7. Nye bogstaver: zxyä
 *:LESSON7_D1
 I:(1)
 D:sxs sxs sxs sxs sxs sxs sxs sxs sxs sxs sxs sxs
  :jyj jyj jyj jyj jyj jyj jyj jyj jyj jyj jyj jyj
  :aza aza aza aza aza aza aza aza aza aza aza aza
- :äöä äöä äöä äöä äöä äöä äöä äöä äöä äöä äöä äöä
+ :öäö öäö öäö öäö öäö öäö öäö öäö öäö öäö öäö öäö
 *:LESSON7_D2
 I:(2)
 D:stuvw stuvw stuvw stuvw stuvw stuvw stuvw stuvw stuvw
  :stuvw stuvw stuvw stuvw stuvw stuvw stuvw stuvw stuvw
- :xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö
- :xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö
+ :xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä
+ :xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä
 *:LESSON7_D3
 I:(3)
 D:husk juble dele quilte dompap waggon vaccine xerografi
@@ -291,14 +291,14 @@ D:zebra zink zar zulu zone zebra zink zar zulu zone
 I:(6)
 D:de spillede bezique hele aftenen
  :else har min cykellygte
- :han hentede sin sön ved skolen
+ :han hentede sin sän ved skolen
  :cement er et vigtigt materiale
 *:LESSON7_D7
 I:(7)
-D:jeg har läst din artikel
- :börsen sönner tömme önske glöde skönne fölge römme
- :börsen sönner tömme önske glöde skönne fölge römme
- :börsen sönner tömme önske glöde skönne fölge römme
+D:jeg har löst din artikel
+ :bärsen sänner tämme änske gläde skänne fälge rämme
+ :bärsen sänner tämme änske gläde skänne fälge rämme
+ :bärsen sänner tämme änske gläde skänne fälge rämme
 G:E_LESSON7
 
 *:S_LESSON8
@@ -306,20 +306,20 @@ K:12:MENU
 B:             Lesson 8: Lektion 8. Nye bogstaver: å,.-
 *:LESSON8_D1
 I:(1)
-D:äåä äåä äåä äåä äåä äåä äåä äåä äåä äåä äåä äåä
+D:öåö öåö öåö öåö öåö öåö öåö öåö öåö öåö öåö öåö
  :k,k k,k k,k k,k k,k k,k k,k k,k k,k k,k k,k k,k
  :l.l l.l l.l l.l l.l l.l l.l l.l l.l l.l l.l l.l
- :ä-ä ä-ä ä-ä ä-ä ä-ä ä-ä ä-ä ä-ä ä-ä ä-ä ä-ä ä-ä
+ :ö-ö ö-ö ö-ö ö-ö ö-ö ö-ö ö-ö ö-ö ö-ö ö-ö ö-ö ö-ö
 *:LESSON8_D2
 I:(2)
 D:abcdef ghijkl mnopqr stuvwx abcdef ghijkl mnopqr stuvwx
- :yzäöå,.- yzäöå,.- yzäöå,.- yzäöå,.- yzäöå,.- yzäöå,.-
- :yzäöå,.- yzäöå,.- yzäöå,.- yzäöå,.- yzäöå,.- yzäöå,.-
+ :yzöäå,.- yzöäå,.- yzöäå,.- yzöäå,.- yzöäå,.- yzöäå,.-
+ :yzöäå,.- yzöäå,.- yzöäå,.- yzöäå,.- yzöäå,.- yzöäå,.-
  :aiqy bjrz aiqy bjrz aiqy bjrz aiqy bjrz aiqy bjrz
 *:LESSON8_D3
 I:(3)
 D:emuå fnw, emuå fnw, emuå fnw, emuå fnw, emuå fnw,
- :cksä dltö cksä dltö cksä dltö cksä dltö cksä dltö
+ :cksö dltä cksö dltä cksö dltä cksö dltä cksö dltä
  :gov. hpx- gov. hpx- gov. hpx- gov. hpx- gov. hpx-
  :åben låge måske åben låge måske åben låge måske
 *:LESSON8_D4
@@ -332,28 +332,28 @@ D:åben låge måske åben låge måske åben låge måske
 I:(5)
 D:der var mange mennesker på gaden, selv om det regnede.
  :hunden var tolv år gammel,
- :vi skal på skovtur på söndag,
+ :vi skal på skovtur på sändag,
  :else-marie kan ikke komme med,
 *:LESSON8_D6
 I:(6)
-D:näste week-end er vi ikke hjemme,
- :vi får gäster i påsken,
- :de skal ikke flyve för på lördag.
+D:nöste week-end er vi ikke hjemme,
+ :vi får göster i påsken,
+ :de skal ikke flyve fär på lärdag.
  :jeg har ringet - men der var ingen, der svarede.
 *:LESSON8_D7
 I:(7)
 D:jeg har ringet - men der var ingen, der svarede.
  :jeg har ringet - men der var ingen, der svarede.
- :abcdefghijklmnopqrstuvwxyzäöå,.-
- :abcdefghijklmnopqrstuvwxyzäöå,.-
+ :abcdefghijklmnopqrstuvwxyzöäå,.-
+ :abcdefghijklmnopqrstuvwxyzöäå,.-
 *:LESSON8_D8
 I:(8)
-D:abcdefghijklmnopqrstuvwxyzäöå,.-
+D:abcdefghijklmnopqrstuvwxyzöäå,.-
 G:E_LESSON8
 
 *:S_LESSON9
 K:12:MENU
-B:           Lesson 9: Lektion 9. Repetition og övelser 1
+B:           Lesson 9: Lektion 9. Repetition og ävelser 1
 *:LESSON9_D1
 I:(1)
 D:abcdef abcdef abcdef abcdef abcdef abcdef abcdef abcdef
@@ -362,21 +362,21 @@ D:abcdef abcdef abcdef abcdef abcdef abcdef abcdef abcdef
  :stuvw stuvw stuvw stuvw stuvw stuvw stuvw stuvw stuvw
 *:LESSON9_D2
 I:(2)
-D:xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö xyzäö
+D:xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä xyzöä
  :å,.- å,.- å,.- å,.- å,.- å,.- å,.- å,.- å,.- å,.- å,.-
  :og i at det en den til er de af på var han der så med ikke
  :og i at det en den til er de af på var han der så med ikke
 *:LESSON9_D3
 I:(3)
-D:äblerne var sure som citroner - de var slet ikke modne
- :äblerne var sure som citroner - de var slet ikke modne
- :äblerne var sure som citroner - de var slet ikke modne
- :nästen lige nu,
+D:öblerne var sure som citroner - de var slet ikke modne
+ :öblerne var sure som citroner - de var slet ikke modne
+ :öblerne var sure som citroner - de var slet ikke modne
+ :nösten lige nu,
 *:LESSON9_D4
 I:(4)
 D:vi viser frem,
  :jorden er rund,
- :vi löber med,
+ :vi läber med,
  :kommer han snart,
 *:LESSON9_D5
 I:(5)
@@ -386,15 +386,15 @@ D:vejen var meget lang,
  :hun deres også skal alle kunne kommer sin hans meget mange
 *:LESSON9_D6
 I:(6)
-D:vi regner med at höre fra dig en af de närmeste dage
- :vi regner med at höre fra dig en af de närmeste dage
- :vi regner med at höre fra dig en af de närmeste dage
+D:vi regner med at häre fra dig en af de nörmeste dage
+ :vi regner med at häre fra dig en af de nörmeste dage
+ :vi regner med at häre fra dig en af de nörmeste dage
  :de eneste, som aldrig begår fejl,
 *:LESSON9_D7
 I:(7)
-D:er de, som aldrig gör noget
- :lysten driver värket,
- :når värket ikke fordriver lysten
+D:er de, som aldrig gär noget
+ :lysten driver vörket,
+ :når vörket ikke fordriver lysten
  :har man meget, så går det til
 *:LESSON9_D8
 I:(8)
@@ -403,12 +403,12 @@ G:E_LESSON9
 
 *:S_LESSON10
 K:12:MENU
-B:          Lesson 10: Lektion 10. Repetition og övelser 2
+B:          Lesson 10: Lektion 10. Repetition og ävelser 2
 *:LESSON10_D1
 I:(1)
-D:abc def ghi jkl mno pqr stu vwx yzäöå, .-
- :bkjc räzs bkjc räzs bkjc räzs bkjc räzs bkjc räzs
- :dmle tåöu dmle tåöu dmle tåöu dmle tåöu dmle tåöu
+D:abc def ghi jkl mno pqr stu vwx yzöäå, .-
+ :bkjc rözs bkjc rözs bkjc rözs bkjc rözs bkjc rözs
+ :dmle tåäu dmle tåäu dmle tåäu dmle tåäu dmle tåäu
  :fong v.,w fong v.,w fong v.,w fong v.,w fong v.,w
 *:LESSON10_D2
 I:(2)
@@ -419,29 +419,29 @@ D:hipa xy-q hipa xy-q hipa xy-q hipa xy-q hipa xy-q
 *:LESSON10_D3
 I:(3)
 D:her ned store lille du gik ville må bliver få eller sagde
- :adskille bestyre censor disk eksempel frimärke grammatik
- :adskille bestyre censor disk eksempel frimärke grammatik
- :adskille bestyre censor disk eksempel frimärke grammatik
+ :adskille bestyre censor disk eksempel frimörke grammatik
+ :adskille bestyre censor disk eksempel frimörke grammatik
+ :adskille bestyre censor disk eksempel frimörke grammatik
 *:LESSON10_D4
 I:(4)
 D:sig ikke alt, hvad du ved - men vid alt, hvad du siger
  :hemmeligheden ved at kede er at sige alt
- :selv det sväreste kan siges nemt - men det er svärt
- :selv det nemmeste kan siges svärt - og det er nemt
+ :selv det svöreste kan siges nemt - men det er svört
+ :selv det nemmeste kan siges svört - og det er nemt
 *:LESSON10_D5
 I:(5)
-D:nok under tid går måtte have väre dog mig sine noget derfor
- :nok under tid går måtte have väre dog mig sine noget derfor
- :handicap ingeniör juice kladde lektier myndig niveau
- :handicap ingeniör juice kladde lektier myndig niveau
+D:nok under tid går måtte have vöre dog mig sine noget derfor
+ :nok under tid går måtte have vöre dog mig sine noget derfor
+ :handicap ingeniär juice kladde lektier myndig niveau
+ :handicap ingeniär juice kladde lektier myndig niveau
 *:LESSON10_D6
 I:(6)
-D:handicap ingeniör juice kladde lektier myndig niveau
+D:handicap ingeniär juice kladde lektier myndig niveau
 G:E_LESSON10
 
 *:S_LESSON11
 K:12:MENU
-B:          Lesson 11: Lektion 11. Repetition og övelser 3
+B:          Lesson 11: Lektion 11. Repetition og ävelser 3
 *:LESSON11_D1
 I:(1)
 D:adbcef adbcfe adbecf adbecf adbefc adbfce adbfec
@@ -458,8 +458,8 @@ D:for men vi som sig har jeg om et da havde nu ved fra kan
 I:(3)
 D:det begyndte godt,
  :vandet er meget koldt,
- :må vi väre länge oppe,
- :der er röde köer på marken,
+ :må vi vöre lönge oppe,
+ :der er räde käer på marken,
 *:LESSON11_D4
 I:(4)
 D:det går nok denne gang.
@@ -467,11 +467,11 @@ G:E_LESSON11
 
 *:S_LESSON12
 K:12:MENU
-B:          Lesson 12: Lektion 12. Repetition og övelser 4
+B:          Lesson 12: Lektion 12. Repetition og ävelser 4
 *:LESSON12_D1
 I:(1)
-D:abc def ghi jkl mno pqr vwx yzä öå, .-
- :abc def ghi jkl mno pqr vwx yzä öå, .-
+D:abc def ghi jkl mno pqr vwx yzö äå, .-
+ :abc def ghi jkl mno pqr vwx yzö äå, .-
  :fik jo kun vil mod godt se dag andre gamle hele lige år
  :fik jo kun vil mod godt se dag andre gamle hele lige år
 *:LESSON12_D2
@@ -483,9 +483,9 @@ D:olympiade pjece quilte refleks samfund tempo union
 *:LESSON12_D3
 I:(3)
 D:andre stammer fra latin - det betyder indledning eller
- :präsentation - et kursus kan starte med introduktions-
- :dage - et musikstykkes förste sats kaldes ofte intro-
- :duktion - det förste brev angående en sag benävnes in-
+ :prösentation - et kursus kan starte med introduktions-
+ :dage - et musikstykkes färste sats kaldes ofte intro-
+ :duktion - det färste brev angående en sag benövnes in-
 *:LESSON12_D4
 I:(4)
 D:troduktionsskrivelse.
@@ -493,19 +493,19 @@ G:E_LESSON12
 
 *:S_LESSON13
 K:12:MENU
-B:          Lesson 13: Lektion 13. Repetition og övelser 5
+B:          Lesson 13: Lektion 13. Repetition og ävelser 5
 *:LESSON13_D1
 I:(1)
-D:abcd efgh ijkl mnop qrst uvwx yzäö å,.-
- :abcd efgh ijkl mnop qrst uvwx yzäö å,.-
+D:abcd efgh ijkl mnop qrst uvwx yzöä å,.-
+ :abcd efgh ijkl mnop qrst uvwx yzöä å,.-
  :stor komme gå gennem os frem alt smart stod endnu hver helt
  :stor komme gå gennem os frem alt smart stod endnu hver helt
 *:LESSON13_D2
 I:(2)
 D:aiqy bjrz aiqy bjrz aiqy bjrz aiqy bjrz aiqy bjrz aiqy bjrz
  :emuå fnw, emuå fnw, emuå fnw, emuå fnw, emuå fnw, emuå fnw,
- :lidt selv denne igen väret hvad mand nogle end hen hundrede
- :lidt selv denne igen väret hvad mand nogle end hen hundrede
+ :lidt selv denne igen vöret hvad mand nogle end hen hundrede
+ :lidt selv denne igen vöret hvad mand nogle end hen hundrede
 *:LESSON13_D3
 I:(3)
 D:et koncept er en slags kladde, som skrives, hvis man ikke
@@ -519,17 +519,17 @@ G:E_LESSON13
 
 *:S_LESSON14
 K:12:MENU
-B:          Lesson 14: Lektion 14. Repetition og övelser 6
+B:          Lesson 14: Lektion 14. Repetition og ävelser 6
 *:LESSON14_D1
 I:(1)
-D:abcd efgh ijkl mnop qrst uvwx yzäö å,.-
- :abcd efgh ijkl mnop qrst uvwx yzäö å,.-
- :varme walkietalkie xero yoga zenit äkvator örken ådsel
- :varme walkietalkie xero yoga zenit äkvator örken ådsel
+D:abcd efgh ijkl mnop qrst uvwx yzöä å,.-
+ :abcd efgh ijkl mnop qrst uvwx yzöä å,.-
+ :varme walkietalkie xero yoga zenit ökvator ärken ådsel
+ :varme walkietalkie xero yoga zenit ökvator ärken ådsel
 *:LESSON14_D2
 I:(2)
-D:varme walkietalkie xero yoga zenit äkvator örken ådsel
- :cksä dltö cksä dltö cksä dltö cksä dltö cksä dltö
+D:varme walkietalkie xero yoga zenit ökvator ärken ådsel
+ :cksö dltä cksö dltä cksö dltä cksö dltä cksö dltä
  :gov. hpx- gov. hpx- gov. hpx- gov. hpx- gov. hpx-
  :ingen ja sammen uden blive mere dens gang min ad anden sit
 *:LESSON14_D3
@@ -540,93 +540,93 @@ D:ingen ja sammen uden blive mere dens gang min ad anden sit
  :specielt om en forfatters arbejde i den form, hvori det
 *:LESSON14_D4
 I:(4)
-D:afleveres til forlägger eller trykkeri - det trykte eller
+D:afleveres til forlögger eller trykkeri - det trykte eller
  :maskinskrevne materiale, der skal afskrives, kaldes også
  :et manuskript.
 G:E_LESSON14
 
 *:S_LESSON15
 K:12:MENU
-B:          Lesson 15: Lektion 15. Repetition og övelser 7
+B:          Lesson 15: Lektion 15. Repetition og ävelser 7
 *:LESSON15_D1
 I:(1)
-D:abcde fghij klmno pqrst uvwxy zäöå, .-
- :abcde fghij klmno pqrst uvwxy zäöå, .-
- :tog bedes jorden blevet både gerne vand dage folk ny först
- :tog bedes jorden blevet både gerne vand dage folk ny först
+D:abcde fghij klmno pqrst uvwxy zöäå, .-
+ :abcde fghij klmno pqrst uvwxy zöäå, .-
+ :tog bedes jorden blevet både gerne vand dage folk ny färst
+ :tog bedes jorden blevet både gerne vand dage folk ny färst
 *:LESSON15_D2
 I:(2)
 D:fong v.,w fong v.,w fong v.,w fong v.,w fong v.,w
  :hipa xy-q hipa xy-q hipa xy-q hipa xy-q hipa xy-q
- :anden läge land sidste således del dig ellers fordi aldrig
- :anden läge land sidste således del dig ellers fordi aldrig
+ :anden löge land sidste således del dig ellers fordi aldrig
+ :anden löge land sidste således del dig ellers fordi aldrig
 *:LESSON15_D3
 I:(3)
 D:der er forskellige teorier om, hvordan jazzen er opstået -
  :ingen af disse teorier kan dog bevises - nogle mener, at
- :jazzen er resultatet af et möde mellem afrikansk og euro-
- :päisk kultur, andre går ud fra, at denne musikform er
+ :jazzen er resultatet af et mäde mellem afrikansk og euro-
+ :pöisk kultur, andre går ud fra, at denne musikform er
 *:LESSON15_D4
 I:(4)
-D:startet, da en ny befolkningsgruppe, som ikke var hämmet
+D:startet, da en ny befolkningsgruppe, som ikke var hömmet
  :af en ensrettet, akademisk tradition, begyndte at spille
- :og efterhånden fandt ud af at göre det på en ny og hidtil
- :uprövet måde.
+ :og efterhånden fandt ud af at gäre det på en ny og hidtil
+ :uprävet måde.
 G:E_LESSON15
 
 *:S_LESSON16
 K:12:MENU
-B:          Lesson 16: Lektion 16. Repetition og övelser 8
+B:          Lesson 16: Lektion 16. Repetition og ävelser 8
 *:LESSON16_D1
 I:(1)
-D:abcde fghij klmno pqrst uvwxy zäöå, .-
- :abcde fghij klmno pqrst uvwxy zäöå, .-
- :först vandet hvis ser sted ligger nästen får hr. samme för
- :först vandet hvis ser sted ligger nästen får hr. samme för
+D:abcde fghij klmno pqrst uvwxy zöäå, .-
+ :abcde fghij klmno pqrst uvwxy zöäå, .-
+ :färst vandet hvis ser sted ligger nösten får hr. samme fär
+ :färst vandet hvis ser sted ligger nösten får hr. samme fär
 *:LESSON16_D2
 I:(2)
-D:bkjc räzs bkjc räzs bkjc räzs bkjc räzs bkjc räzs
- :dmle tåöu dmle tåöu dmle tåöu dmle tåöu dmle tåöu
+D:bkjc rözs bkjc rözs bkjc rözs bkjc rözs bkjc rözs
+ :dmle tåäu dmle tåäu dmle tåäu dmle tåäu dmle tåäu
  :hjem dette disse ude lå langt mellem undskylde små tilbage
  :hjem dette disse ude lå langt mellem undskylde små tilbage
 *:LESSON16_D3
 I:(3)
-D:der er ingen tvivl om, at foräldres indflydelse på
- :deres börns valg af erhverv kan väre meget stor -
- :i gamle dage var det en selvfölge, at foräldrene
- :fastlagde deres börns fremtid - ofte fulgte sönnen
+D:der er ingen tvivl om, at foröldres indflydelse på
+ :deres bärns valg af erhverv kan vöre meget stor -
+ :i gamle dage var det en selvfälge, at foröldrene
+ :fastlagde deres bärns fremtid - ofte fulgte sännen
 *:LESSON16_D4
 I:(4)
 D:i faderens fodspor.
  :i de fleste hjem er det nu blevet således, at de
- :unge selv er med til at bestemme, hvad de vil väre
- :- ja, nogle foräldre overlader helt til börnene at
+ :unge selv er med til at bestemme, hvad de vil vöre
+ :- ja, nogle foröldre overlader helt til bärnene at
 *:LESSON16_D5
 I:(5)
-D:afgöre sagen - men det rigtige må väre, at foräldre
- :og börn i fällesskab finder frem til den bedst muli-
- :ge lösning.
+D:afgäre sagen - men det rigtige må vöre, at foröldre
+ :og bärn i föllesskab finder frem til den bedst muli-
+ :ge läsning.
 G:E_LESSON16
 
 *:S_LESSON17
 K:12:MENU
-B:Lesson 17: Lektion 17. Store bogstaver med höjre og venstre skiftenögler
+B:Lesson 17: Lektion 17. Store bogstaver med häjre og venstre skiftenägler
 *:LESSON17_D1
 I:(1)
-D:Anna Börge Christian Dorthe Else Frede Gunnar Hans Ida Jens
- :Anna Börge Christian Dorthe Else Frede Gunnar Hans Ida Jens
- :Kirsten Lars Morten Niels Ole Peter Ruth Sören Tove Ulla Vera
- :Kirsten Lars Morten Niels Ole Peter Ruth Sören Tove Ulla Vera
+D:Anna Bärge Christian Dorthe Else Frede Gunnar Hans Ida Jens
+ :Anna Bärge Christian Dorthe Else Frede Gunnar Hans Ida Jens
+ :Kirsten Lars Morten Niels Ole Peter Ruth Sären Tove Ulla Vera
+ :Kirsten Lars Morten Niels Ole Peter Ruth Sären Tove Ulla Vera
 *:LESSON17_D2
 I:(2)
-D:Werner Xenia Yrsa Zenta ärö öjvind Åse
- :Werner Xenia Yrsa Zenta ärö öjvind Åse
+D:Werner Xenia Yrsa Zenta örä äjvind Åse
+ :Werner Xenia Yrsa Zenta örä äjvind Åse
  :altid flere ofte omkring side byen inde bort danske skoven
  :altid flere ofte omkring side byen inde bort danske skoven
 *:LESSON17_D3
 I:(3)
-D:Mandag. Tirsdag. Onsdag. Torsdag. Fredag. Lördag. Söndag.
- :Mandag. Tirsdag. Onsdag. Torsdag. Fredag. Lördag. Söndag.
+D:Mandag. Tirsdag. Onsdag. Torsdag. Fredag. Lärdag. Sändag.
+ :Mandag. Tirsdag. Onsdag. Torsdag. Fredag. Lärdag. Sändag.
  :Frilandsmuseet ved Sorgenfri blev oprettet ved år-
  :hundredeskiftet og en nu en afdeling af National-
 *:LESSON17_D4
@@ -653,8 +653,8 @@ D:fr5f fr5f fr5f fr5f fr5f fr5f fr5f fr5f fr5f fr5f
 *:LESSON18_D2
 I:(2)
 D:aq1a aq1a aq1a aq1a aq1a aq1a aq1a aq1a aq1a aq1a
- :Täppet er 4 meter bredt og 5 meter langt.
- :Täppet er 4 meter bredt og 5 meter langt.
+ :Töppet er 4 meter bredt og 5 meter langt.
+ :Töppet er 4 meter bredt og 5 meter langt.
  :Forretningen er flyttet fra Algade 4 til Bredgade 5.
 *:LESSON18_D3
 I:(3)
@@ -665,20 +665,20 @@ D:Forretningen er flyttet fra Algade 4 til Bredgade 5.
 *:LESSON18_D4
 I:(4)
 D:1 er for lidt, mon 2 er nok, tag hellere 3 med det samme.
- :Hun bor på Vestergade nr. 12, han bor på östergade nr. 21.
- :Hun bor på Vestergade nr. 12, han bor på östergade nr. 21.
- :De er flyttet fra Nörregade nr. 13 til Söndergade nr. 31.
+ :Hun bor på Vestergade nr. 12, han bor på ästergade nr. 21.
+ :Hun bor på Vestergade nr. 12, han bor på ästergade nr. 21.
+ :De er flyttet fra Närregade nr. 13 til Sändergade nr. 31.
 *:LESSON18_D5
 I:(5)
-D:De er flyttet fra Nörregade nr. 13 til Söndergade nr. 31.
- :Jordkloden modtager daglig enorme energimängder fra
+D:De er flyttet fra Närregade nr. 13 til Sändergade nr. 31.
+ :Jordkloden modtager daglig enorme energimöngder fra
  :solen i form af strålevarme. Denne varme er en be-
- :tingelse for alt liv på jorden og ville väre mere
+ :tingelse for alt liv på jorden og ville vöre mere
 *:LESSON18_D6
 I:(6)
-D:en rigelig til däkning af vort samlede energibehov,
+D:en rigelig til dökning af vort samlede energibehov,
  :hvis vi kunne udnytte den. I de kommende år vil for-
- :skere overalt på jorden forsöge at finde frem til
+ :skere overalt på jorden forsäge at finde frem til
  :metoder, der kan omdanne solenergi til energiformer,
 *:LESSON18_D7
 I:(7)
@@ -696,44 +696,44 @@ D:jy6j jy6j jy6j jy6j jy6j jy6j jy6j jy6j jy6j jy6j
  :lo9l lo9l lo9l lo9l lo9l lo9l lo9l lo9l lo9l lo9l
 *:LESSON19_D2
 I:(2)
-D:äp0ä äp0ä äp0ä äp0ä äp0ä äp0ä äp0ä äp0ä äp0ä äp0ä
- :Resan varade 37 timmar och de körde genom 6 länder.
- :Resan varade 37 timmar och de körde genom 6 länder.
+D:öp0ö öp0ö öp0ö öp0ö öp0ö öp0ö öp0ö öp0ö öp0ö öp0ö
+ :Resan varade 37 timmar och de kärde genom 6 lönder.
+ :Resan varade 37 timmar och de kärde genom 6 lönder.
  :Det fanns 10 tjejer och 17 pojkar i klassen.
 *:LESSON19_D3
 I:(3)
 D:Der var 10 piger og 17 drenge i klassen.
- :Pensionsalderen for kvinder er 62, for mänd er den 67.
- :Pensionsalderen for kvinder er 62, for mänd er den 67.
+ :Pensionsalderen for kvinder er 62, for mönd er den 67.
+ :Pensionsalderen for kvinder er 62, for mönd er den 67.
  :Han fik 46 points ud af 59 mulige.
 *:LESSON19_D4
 I:(4)
 D:Han fik 46 points ud af 59 mulige.
- :Han blev födt den 28. juni 1947 i Rudköbing.
- :Han blev födt den 28. juni 1947 i Rudköbing.
- :Der var 807 ansögere men kun 698 pladser.
+ :Han blev fädt den 28. juni 1947 i Rudkäbing.
+ :Han blev fädt den 28. juni 1947 i Rudkäbing.
+ :Der var 807 ansägere men kun 698 pladser.
 *:LESSON19_D5
 I:(5)
-D:Der var 807 ansögere men kun 698 pladser.
- :Träer vokser ikke alene i höjtiden, men også i höjtiden.
+D:Der var 807 ansägere men kun 698 pladser.
+ :Tröer vokser ikke alene i häjtiden, men også i häjtiden.
  :I laget mellem bark og ved finder der en celledeling
  :sted. Hvis temperaturen var ens året rundt, ville
 *:LESSON19_D6
 I:(6)
-D:träet vokse jävnt, men på vore breddegrader sker väk-
- :sten i ryk, fordi träerne hviler om vinteren. Dette
- :bevirker, at man på et oversavet trä tydeligt kan se,
- :hvor mange år träet er, ved hjälp af de såkaldte år-
+D:tröet vokse jövnt, men på vore breddegrader sker vök-
+ :sten i ryk, fordi tröerne hviler om vinteren. Dette
+ :bevirker, at man på et oversavet trö tydeligt kan se,
+ :hvor mange år tröet er, ved hjölp af de såkaldte år-
 *:LESSON19_D7
 I:(7)
-D:ringe. Danmarks äldste trä er Kongeegen i Nordskoven
- :ved Jägerspris, som på grundlag af sin tykkelse er
- :bedömt til 1800 år.
+D:ringe. Danmarks öldste trö er Kongeegen i Nordskoven
+ :ved Jögerspris, som på grundlag af sin tykkelse er
+ :bedämt til 1800 år.
 G:E_LESSON19
 
 *:S_LESSON20
 K:12:MENU
-B:          Lesson 20: Lektion 20: Repetition og övelser 9
+B:          Lesson 20: Lektion 20: Repetition og ävelser 9
 *:LESSON20_D1
 I:(1)
 D:Januar. Februar. Marts. April. Maj. Juni.
@@ -742,14 +742,14 @@ D:Januar. Februar. Marts. April. Maj. Juni.
  :Juli. August. September. Oktober. November. December.
 *:LESSON20_D2
 I:(2)
-D:Säkkene vejede i alt 415 kg
- :Säkkene vejede i alt 415 kg
+D:Sökkene vejede i alt 415 kg
+ :Sökkene vejede i alt 415 kg
  :Vi udstiller i Aalborghallen den 2. og 3. juni i år.
  :Vi udstiller i Aalborghallen den 2. og 3. juni i år.
 *:LESSON20_D3
 I:(3)
-D:stille ganske mennesker fast göre igennem ene kommet par
- :stille ganske mennesker fast göre igennem ene kommet par
+D:stille ganske mennesker fast gäre igennem ene kommet par
+ :stille ganske mennesker fast gäre igennem ene kommet par
  :stadig fri går hovedet sådan stykke endelig holdt sad
  :stadig fri går hovedet sådan stykke endelig holdt sad
 *:LESSON20_D4
@@ -757,23 +757,23 @@ I:(4)
 D:Tasterne på skrivemaskinen må ikke trykkes ned, men skal
  :slås staccato an, det vil sige et kort lodret anslag med
  :spidsen af fingeren på tasten, som lynhurtig slippes i
- :det öjeblik, den er i bund.
+ :det äjeblik, den er i bund.
 *:LESSON20_D5
 I:(5)
 D:Ved salg på kredit forstår man, at der gives en vis hen-
  :stand med betalingen. En detailhandler eller grosserer
  :får ofte så lang kredit, at han får tid til at videre-
- :sälge varerne, således at han har fået penge til beta-
+ :sölge varerne, således at han har fået penge til beta-
 *:LESSON20_D6
 I:(6)
-D:ling af gälden. Detailhandlerens kunder - forbrugerne -
- :köber på kredit, hvis de ikke har opsparet tilsträkkelig
+D:ling af gölden. Detailhandlerens kunder - forbrugerne -
+ :käber på kredit, hvis de ikke har opsparet tilströkkelig
  :mange penge.
 G:E_LESSON20
 
 *:S_LESSON21
 K:12:MENU
-B:         Lesson 21: Lektion 21: Repetition og övelser 10
+B:         Lesson 21: Lektion 21: Repetition og ävelser 10
 *:LESSON21_D1
 I:(1)
 D:Assens. Bjerringbro. Christiansfeld. Dokkedal. Egense.
@@ -782,10 +782,10 @@ D:Assens. Bjerringbro. Christiansfeld. Dokkedal. Egense.
  :Fakse. Gilleleje. Hadsund. Ingstrup. Jerslev. Klim.
 *:LESSON21_D2
 I:(2)
-D:Lemvig. Marstal. Nakskov. Oksböl. Padborg. Randers.
- :Lemvig. Marstal. Nakskov. Oksböl. Padborg. Randers.
- :Sorö. Tjäreborg. Ulfborg. Vejle. Ydby. äbeltoft. ölgod.
- :Sorö. Tjäreborg. Ulfborg. Vejle. Ydby. äbeltoft. ölgod.
+D:Lemvig. Marstal. Nakskov. Oksbäl. Padborg. Randers.
+ :Lemvig. Marstal. Nakskov. Oksbäl. Padborg. Randers.
+ :Sorä. Tjöreborg. Ulfborg. Vejle. Ydby. öbeltoft. älgod.
+ :Sorä. Tjöreborg. Ulfborg. Vejle. Ydby. öbeltoft. älgod.
 *:LESSON21_D3
 I:(3)
 D:den 7. og 8. november, den 9. og 10. december
@@ -794,82 +794,82 @@ D:den 7. og 8. november, den 9. og 10. december
  :Bogen har 268 sider, jeg er kommet til side 109.
 *:LESSON21_D4
 I:(4)
-D:vej fået god hos atter begyndte finde give näste morgen
- :vej fået god hos atter begyndte finde give näste morgen
- :inden kl. luften nogen hjemme hvide höre idet lang sidder
- :inden kl. luften nogen hjemme hvide höre idet lang sidder
+D:vej fået god hos atter begyndte finde give nöste morgen
+ :vej fået god hos atter begyndte finde give nöste morgen
+ :inden kl. luften nogen hjemme hvide häre idet lang sidder
+ :inden kl. luften nogen hjemme hvide häre idet lang sidder
 *:LESSON21_D5
 I:(5)
-D:Det er svärt for en tom säk at stå oprejst.
+D:Det er svört for en tom sök at stå oprejst.
  :Med lyn kan man oplyse verden, men ikke opvarme en ovn.
  :Fanatisme vil sige, at man fordobler sine anstrengelser,
  :efter at man har glemt sit mål.
 *:LESSON21_D6
 I:(6)
 D:Noget af det mest irriterende i denne verden er, at kund-
- :skaber og färdigheder kun kan erhverves gennem hårdt ar-
+ :skaber og fördigheder kun kan erhverves gennem hårdt ar-
  :bejde.
 G:E_LESSON21
 
 *:S_LESSON22
 K:12:MENU
-B:         Lesson 22: Lektion 22: Repetition og övelser 11
+B:         Lesson 22: Lektion 22: Repetition og ävelser 11
 *:LESSON22_D1
 I:(1)
-D:aäsldkfjdkslaäsldkfjdkslaäaäsldkfjdkslaäaäsldkfjdkslaä
- :aften gået hurtigt medens bedre gav höjt arbejde imod
- :aften gået hurtigt medens bedre gav höjt arbejde imod
- :Hver gang, man skal träffe et valg, er der en mulighed
+D:aösldkfjdkslaösldkfjdkslaöaösldkfjdkslaöaösldkfjdkslaö
+ :aften gået hurtigt medens bedre gav häjt arbejde imod
+ :aften gået hurtigt medens bedre gav häjt arbejde imod
+ :Hver gang, man skal tröffe et valg, er der en mulighed
 *:LESSON22_D2
 I:(2)
-D:for, at man välger forkert. Hvis det drejer sig om en
- :ting, man har köbt, kan det måske lade sig göre at få
+D:for, at man völger forkert. Hvis det drejer sig om en
+ :ting, man har käbt, kan det måske lade sig gäre at få
  :den byttet eller at lade handelen gå tilbage.
  :Har man valgt uddannelse eller erhverv, burde det også
 *:LESSON22_D3
 I:(3)
-D:väre let at välge om igen, hvis det viser sig, at man
- :har valgt forkert. Opdager man sin fejltagelse i löbet
+D:vöre let at völge om igen, hvis det viser sig, at man
+ :har valgt forkert. Opdager man sin fejltagelse i läbet
  :af få uger, kan det gå ret smertefrit, men sker det
- :flere gange, eller afgörelsen träkkes i langdrag, er
+ :flere gange, eller afgärelsen trökkes i langdrag, er
 *:LESSON22_D4
 I:(4)
-D:det en anden sag. Det kan väre klogt at gennemdröfte
- :de problemer, man har, med foräldre eller andre, som
+D:det en anden sag. Det kan vöre klogt at gennemdräfte
+ :de problemer, man har, med foröldre eller andre, som
  :man har tillid til.
  :rigtig rundt begge dagen forbi intet nå nye stort syg
 *:LESSON22_D5
 I:(5)
 D:rigtig rundt begge dagen forbi intet nå nye stort syg
- :gjorde hinanden lov mängde set tager foran haft nemlig
- :gjorde hinanden lov mängde set tager foran haft nemlig
- :Peter svömmede 400 meter crawl
+ :gjorde hinanden lov möngde set tager foran haft nemlig
+ :gjorde hinanden lov möngde set tager foran haft nemlig
+ :Peter svämmede 400 meter crawl
 *:LESSON22_D6
 I:(6)
-D:Peter svömmede 400 meter crawl
- :Peter svömmede 400 meter crawl
+D:Peter svämmede 400 meter crawl
+ :Peter svämmede 400 meter crawl
 G:E_LESSON22
 
 *:S_LESSON23
 K:12:MENU
-B:         Lesson 23: Lektion 23: Repetition og övelser 12
+B:         Lesson 23: Lektion 23: Repetition og ävelser 12
 *:LESSON23_D1
 I:(1)
-D:abcdefghijklmnopqrstuvwxyzäöå,.-
- :abcdefghijklmnopqrstuvwxyzäöå,.-
+D:abcdefghijklmnopqrstuvwxyzöäå,.-
+ :abcdefghijklmnopqrstuvwxyzöäå,.-
  :solen vejen vel dyr gode let mens pludselig engang senere
  :solen vejen vel dyr gode let mens pludselig engang senere
 *:LESSON23_D2
 I:(2)
 D:Hvis du vil udvide dit ordforråd, må du slå alle de
  :ord, du ikke kender, op i en fremmedordbog, efterhånden
- :som du stöder på dem, skrifteligt eller mundtligt.
- :Jo flere ord du kender, desto lettere er det at läse
+ :som du städer på dem, skrifteligt eller mundtligt.
+ :Jo flere ord du kender, desto lettere er det at löse
 *:LESSON23_D3
 I:(3)
 D:vanskeligere stof, og desto lettere vil du have ved
  :at udtrykke dig.
- :Det behöver ikke at betyde, at du skal anvende frem-
+ :Det behäver ikke at betyde, at du skal anvende frem-
  :medord i tide og utide. Du skal kun bruge dem, når
 *:LESSON23_D4
 I:(4)
@@ -882,41 +882,41 @@ I:(5)
 D:undgås, hvis man kender fremmedords betydning.
  :Ordet kommunikere er et fremmedord. Det betyder at
  :meddele eller at udveksle meddelelser.
- :siden slet står tage allerede grund gör hende lärer måde
+ :siden slet står tage allerede grund gär hende lörer måde
 *:LESSON23_D6
 I:(6)
-D:siden slet står tage allerede grund gör hende lärer måde
- :begynder borte längere spurgte lange måske steder videre
- :begynder borte längere spurgte lange måske steder videre
- :Hör, jeg taler som en bog
+D:siden slet står tage allerede grund gär hende lörer måde
+ :begynder borte löngere spurgte lange måske steder videre
+ :begynder borte löngere spurgte lange måske steder videre
+ :Här, jeg taler som en bog
 *:LESSON23_D7
 I:(7)
-D:- det er klogt at väre klog,
+D:- det er klogt at vöre klog,
  :eller i en omvendt sum
- :- det er dumt at väre dum.
+ :- det er dumt at vöre dum.
 G:E_LESSON23
 
 *:S_LESSON24
 K:12:MENU
-B:         Lesson 24: Lektion 24: Repetition og övelser 13
+B:         Lesson 24: Lektion 24: Repetition og ävelser 13
 *:LESSON24_D1
 I:(1)
-D:abcdefghijklmnopqrstuvwxyzäöå,.-
- :abcdefghijklmnopqrstuvwxyzäöå,.-
- :större börnene findes langs mad midt nåede satte stå
- :större börnene findes langs mad midt nåede satte stå
+D:abcdefghijklmnopqrstuvwxyzöäå,.-
+ :abcdefghijklmnopqrstuvwxyzöäå,.-
+ :stärre bärnene findes langs mad midt nåede satte stå
+ :stärre bärnene findes langs mad midt nåede satte stå
 *:LESSON24_D2
 I:(2)
 D:hvert imidlertid nede penge sent bag blade fleste gård
  :hvert imidlertid nede penge sent bag blade fleste gård
- :For millioener af år siden var jorden däkket af varme,
+ :For millioener af år siden var jorden dökket af varme,
  :lavvandede have. I disse have levede utallige smådyr.
 *:LESSON24_D3
 I:(3)
-D:Når de döde, sank de ned på havbunden, hvor de efter-
+D:Når de däde, sank de ned på havbunden, hvor de efter-
  :hånden dannede et slamlignede lag. Dette slamlag blev
- :tykkere og tykkere og blev senere däkket af et tykt
- :lag mudder, som langsomt omdannedes til en porös sten-
+ :tykkere og tykkere og blev senere dökket af et tykt
+ :lag mudder, som langsomt omdannedes til en poräs sten-
 *:LESSON24_D4
 I:(4)
 D:art, som kunne opsuge den olie, som slamlaget på grund
@@ -926,7 +926,7 @@ D:art, som kunne opsuge den olie, som slamlaget på grund
 *:LESSON24_D5
 I:(5)
 D:kaldte oliefelter er de lag - som regel dybt nede i
- :jorden - der består af et oliefyldt poröst stenlag.
+ :jorden - der består af et oliefyldt poräst stenlag.
  :Der er mulighed for at finde olie mange steder på
  :jorden, for eksempel også i havbunden omkring Danmark.
 *:LESSON24_D6
@@ -937,17 +937,17 @@ D:Stuen måler 4 x 5 meter
  :Jeg har rettet 41 stile, kun 4 eller 5 var gode.
 *:LESSON24_D7
 I:(7)
-D:Der var 32 deltagere i mödet.
- :Der var 32 deltagere i mödet.
- :-., åöä zyx wvu tsr qpo nml kji hgf edc ba
+D:Der var 32 deltagere i mädet.
+ :Der var 32 deltagere i mädet.
+ :-., åäö zyx wvu tsr qpo nml kji hgf edc ba
 G:E_LESSON24
 
 *:S_LESSON25
 K:12:MENU
-B:         Lesson 25: Lektion 25: Repetition og övelser 14
+B:         Lesson 25: Lektion 25: Repetition og ävelser 14
 *:LESSON25_D1
 I:(1)
-D:aäsldkfjdkslaäsldkfjdkslaäaäsldkfjdkslaäaäsldkfjdkslaä
+D:aösldkfjdkslaösldkfjdkslaöaösldkfjdkslaöaösldkfjdkslaö
  :A. Andersen. B. Bjerg. C. Carlsen. D. Dam. E. Eriksen.
  :A. Andersen. B. Bjerg. C. Carlsen. D. Dam. E. Eriksen.
  :F. Frandsen. G. Gregersen. H. Hansen. I. Iversen J. Jensen.
@@ -956,28 +956,28 @@ I:(2)
 D:F. Frandsen. G. Gregersen. H. Hansen. I. Iversen J. Jensen.
  :K. Knudsen. L. Larsen. M. Madsen. N.Nielsen. O.Olsen.
  :K. Knudsen. L. Larsen. M. Madsen. N.Nielsen. O.Olsen.
- :lande lod mine plads stärk vist egne fandt flyver gange
+ :lande lod mine plads störk vist egne fandt flyver gange
 *:LESSON25_D3
 I:(3)
-D:lande lod mine plads stärk vist egne fandt flyver gange
+D:lande lod mine plads störk vist egne fandt flyver gange
  :Årets gang i naturen er fuld af overraskelser. Når sneen
- :smelter bort, og frosten går af jorden, väkkes de förste
- :bladanläg til live. Så tidligt som i marts titter de
+ :smelter bort, og frosten går af jorden, vökkes de färste
+ :bladanlög til live. Så tidligt som i marts titter de
 *:LESSON25_D4
 I:(4)
-D:förste fölfod frem i gröftekanten, og man kan finde duf-
- :tende violer på stengärdet ved skoven. Når jorden bliver
- :varmere, begynder röddernes fine net at opsuge vand, og
+D:färste fälfod frem i gräftekanten, og man kan finde duf-
+ :tende violer på stengördet ved skoven. Når jorden bliver
+ :varmere, begynder räddernes fine net at opsuge vand, og
  :planterne skyder hurtigt i vejret. Planterne retter sig
 *:LESSON25_D5
 I:(5)
 D:mere efter mikroklimaet ved jordoverfladen end efter det
- :klima, vi andre registrerer i et par meters höjde over
+ :klima, vi andre registrerer i et par meters häjde over
  :jordoverfladen. Det er forskellen i mikroklimaet, der
- :gör, at nogle anemoner springer ud op til et par uger
+ :gär, at nogle anemoner springer ud op til et par uger
 *:LESSON25_D6
 I:(6)
-D:för andre, der gror på mindre heldige steder.
+D:fär andre, der gror på mindre heldige steder.
  :Ring besked inden kl. 10 til telefonen 08 67 90 79
  :Ring besked inden kl. 10 til telefonen 08 67 90 79
  :Ring besked inden kl. 10 til telefonen 08 67 90 79
@@ -985,138 +985,138 @@ G:E_LESSON25
 
 *:S_LESSON26
 K:12:MENU
-B:         Lesson 26: Lektion 26: Repetition og övelser 15
+B:         Lesson 26: Lektion 26: Repetition og ävelser 15
 *:LESSON26_D1
 I:(1)
-D:abcdefghijklmnopqrstuvwxyzäöå,.-
- :abcdefghijklmnopqrstuvwxyzäöå,.-
- :flok gaden lägge löb omtrent ondt rask sider siger skibe
- :flok gaden lägge löb omtrent ondt rask sider siger skibe
+D:abcdefghijklmnopqrstuvwxyzöäå,.-
+ :abcdefghijklmnopqrstuvwxyzöäå,.-
+ :flok gaden lögge läb omtrent ondt rask sider siger skibe
+ :flok gaden lögge läb omtrent ondt rask sider siger skibe
 *:LESSON26_D2
 I:(2)
-D:P. Pedersen. R. Rasmussen. S. Sörensen. T. Thomsen. U. Ulrich.
- :P. Pedersen. R. Rasmussen. S. Sörensen. T. Thomsen. U. Ulrich.
- :V. Vang. Y. Yde. Z. Zerlang. ä. ärö. ö. örum. Å. Åbo.
- :V. Vang. Y. Yde. Z. Zerlang. ä. ärö. ö. örum. Å. Åbo.
+D:P. Pedersen. R. Rasmussen. S. Särensen. T. Thomsen. U. Ulrich.
+ :P. Pedersen. R. Rasmussen. S. Särensen. T. Thomsen. U. Ulrich.
+ :V. Vang. Y. Yde. Z. Zerlang. ö. örä. ä. ärum. Å. Åbo.
+ :V. Vang. Y. Yde. Z. Zerlang. ö. örä. ä. ärum. Å. Åbo.
 *:LESSON26_D3
 I:(3)
-D:Hvert 4. år er skudår, og februar har 29 dage mod de säd-
+D:Hvert 4. år er skudår, og februar har 29 dage mod de söd-
  :vanlige 28 dage. Der kiles en dag ind imellem den 23. og
  :24. februar, den såkaldte skuddag. Vi har skudår de år,
  :hvor årstallet er deleligt med 4, for eksempel 1968, 1972,
 *:LESSON26_D4
 I:(4)
-D:1976 og 1980. År 2000 vil dog ikke väre skudår, ligesom
+D:1976 og 1980. År 2000 vil dog ikke vöre skudår, ligesom
  :år 1900 ikke var det.
- :Man mener, det var de förste romere, der indförte et år
- :på 12 måneder. Cäsar bestemte, at hvert 4. år skulle väre
+ :Man mener, det var de färste romere, der indfärte et år
+ :på 12 måneder. Cösar bestemte, at hvert 4. år skulle vöre
 *:LESSON26_D5
 I:(5)
 D:skudår med 366 dage, de mellemliggende 3 år 365 dage. Denne
  :tidsregning fik navnet den julianske tidsregning og blev
- :indfört den 1. januar år 45.
- :hilsen klokken mest mindre störste vejret efterhånden gjort
+ :indfärt den 1. januar år 45.
+ :hilsen klokken mest mindre stärste vejret efterhånden gjort
 *:LESSON26_D6
 I:(6)
-D:hilsen klokken mest mindre störste vejret efterhånden gjort
- :lagde lever natten siger tiden fremmede hel tänkte hvordan
- :lagde lever natten siger tiden fremmede hel tänkte hvordan
- :lave luft nej ret svarede tidligere venligst öjeblik altså
+D:hilsen klokken mest mindre stärste vejret efterhånden gjort
+ :lagde lever natten siger tiden fremmede hel tönkte hvordan
+ :lagde lever natten siger tiden fremmede hel tönkte hvordan
+ :lave luft nej ret svarede tidligere venligst äjeblik altså
 *:LESSON26_D7
 I:(7)
-D:lave luft nej ret svarede tidligere venligst öjeblik altså
+D:lave luft nej ret svarede tidligere venligst äjeblik altså
 G:E_LESSON26
 
 *:S_LESSON27
 K:12:MENU
-B:         Lesson 27: Lektion 27: Repetition og övelser 16
+B:         Lesson 27: Lektion 27: Repetition og ävelser 16
 *:LESSON27_D1
 I:(1)
-D:abcdef ghijkl mnopqr stuvwx yzäöå, .-
- :abcdef ghijkl mnopqr stuvwx yzäöå, .-
- :Der er stor forskel på unge menneskers läsefärdighed.
- :Enkelte hurtige läsere kan läse op til 500 ord pr.
+D:abcdef ghijkl mnopqr stuvwx yzöäå, .-
+ :abcdef ghijkl mnopqr stuvwx yzöäå, .-
+ :Der er stor forskel på unge menneskers lösefördighed.
+ :Enkelte hurtige lösere kan löse op til 500 ord pr.
 *:LESSON27_D2
 I:(2)
-D:minut, medens de langsomme läsere måske kun kommer op
- :på 50 ord pr. minut. Läsehastigheden bör varieres ef-
- :ter det stof, der läses. En side i en roman kan läses
- :hurtigere end en side i en lärebog i matematik eller
+D:minut, medens de langsomme lösere måske kun kommer op
+ :på 50 ord pr. minut. Lösehastigheden bär varieres ef-
+ :ter det stof, der löses. En side i en roman kan löses
+ :hurtigere end en side i en lörebog i matematik eller
 *:LESSON27_D3
 I:(3)
-D:biologi. Det kräver en bestemt teknik at läre en lek-
- :tie, hvor man skal forstå og huske det läste. Man kan
- :godt läse lektien 2-3 gange uden at have lärt den.
- :Et af de vigtigste midler til effektiv lektieläsning
+D:biologi. Det kröver en bestemt teknik at löre en lek-
+ :tie, hvor man skal forstå og huske det löste. Man kan
+ :godt löse lektien 2-3 gange uden at have lört den.
+ :Et af de vigtigste midler til effektiv lektielösning
 *:LESSON27_D4
 I:(4)
 D:er koncentration, det vil sige evnen til at holde tan-
  :kerne samlede om den opgave, man er optaget af. Man
- :lärer ikke sin lektie, hvis tankerne flakker rundt,
- :medens man läser. Det kräver ofte stor viljeanspändel-
+ :lörer ikke sin lektie, hvis tankerne flakker rundt,
+ :medens man löser. Det kröver ofte stor viljeanspöndel-
 *:LESSON27_D5
 I:(5)
-D:se og selvdisciplin at koncentrere sig. Den störste
- :hjälp til koncentration er virkelig interesse for den
+D:se og selvdisciplin at koncentrere sig. Den stärste
+ :hjölp til koncentration er virkelig interesse for den
  :foreliggende opgave, men der er vel ingen, der synes,
- :at alle opgaver er lige interessante. Det er dog värd
+ :at alle opgaver er lige interessante. Det er dog vörd
 *:LESSON27_D6
 I:(6)
-D:at lägge märke til, at hvis man for alvor forsöger at
- :läse en lektie og grundigt sätter sig ind i stoffet,
- :så vil man märke, at interessen kommer af sig selv.
- :rejste siden slår slags stärk träer unge forskellige
+D:at lögge mörke til, at hvis man for alvor forsäger at
+ :löse en lektie og grundigt sötter sig ind i stoffet,
+ :så vil man mörke, at interessen kommer af sig selv.
+ :rejste siden slår slags störk tröer unge forskellige
 *:LESSON27_D7
 I:(7)
-D:rejste siden slår slags stärk träer unge forskellige
- :heller hus höres kender manden meddele afsende modtage
- :heller hus höres kender manden meddele afsende modtage
+D:rejste siden slår slags störk tröer unge forskellige
+ :heller hus häres kender manden meddele afsende modtage
+ :heller hus häres kender manden meddele afsende modtage
 G:E_LESSON27
 
 *:S_LESSON28
 K:12:MENU
-B:         Lesson 28: Lektion 28: Repetition og övelser 17
+B:         Lesson 28: Lektion 28: Repetition og ävelser 17
 *:LESSON28_D1
 I:(1)
-D:abcdefghijklmnopqrstuvwxyzäöå,.-
- :abcdefghijklmnopqrstuvwxyzäöå,.-
+D:abcdefghijklmnopqrstuvwxyzöäå,.-
+ :abcdefghijklmnopqrstuvwxyzöäå,.-
  :Mit telefonnummer er fra 24. november 35 17 88 96
  :Mit telefonnummer er fra 24. november 35 17 88 96
 *:LESSON28_D2
 I:(2)
 D:Mit telefonnummer er fra 24. november 35 17 82 96
- :Der findes dyr med märkelige spisevaner ganske ligesom
+ :Der findes dyr med mörkelige spisevaner ganske ligesom
  :mennesker. Mange insekter er vegetarianere, andre er
- :lidenskabelige ködädere. Sommerfuglelarver spiser al-
+ :lidenskabelige kädödere. Sommerfuglelarver spiser al-
 *:LESSON28_D3
 I:(3)
 D:mindeligvis blade, men der findes en art, der kun kan
- :trives på en ganske bestemt pileart - al anden föde
- :nägter den at spise, om den så skal dö af sult. Menne-
- :sker og dyr behöver i virkeligheden de samme närings-
+ :trives på en ganske bestemt pileart - al anden fäde
+ :nögter den at spise, om den så skal dä af sult. Menne-
+ :sker og dyr behäver i virkeligheden de samme nörings-
 *:LESSON28_D4
 I:(4)
 D:stoffer, som de indtager i forskellig form. Alle har
- :behov for fedt og sukker som brändstof for organismen
+ :behov for fedt og sukker som bröndstof for organismen
  :og kraftkilde for musklerne. Disse stoffer er lige så
- :nödvendige, som olien er det for en dieselmotor, der
+ :nädvendige, som olien er det for en dieselmotor, der
 *:LESSON28_D5
 I:(5)
 D:skal kunne yde noget.
- :Naturligvis er det ikke nödvendigt udelukkende at spi-
- :se sukker. Bröd og kartofler er sukkerkilder for krop-
- :pen, idet disse födemidlers hovedbestanddel, stivelse,
+ :Naturligvis er det ikke nädvendigt udelukkende at spi-
+ :se sukker. Bräd og kartofler er sukkerkilder for krop-
+ :pen, idet disse fädemidlers hovedbestanddel, stivelse,
 *:LESSON28_D6
 I:(6)
-D:i kemisk henseende står sukkeret när og faktisk omdan-
- :nes til sukkerstof af vore fordöjelsesorganer. Samtidig
- :er det nödvendigt at få tilfört äggehvidestoffer, pro-
- :tein, idet kroppen for en stor del består af äggehvide-
+D:i kemisk henseende står sukkeret nör og faktisk omdan-
+ :nes til sukkerstof af vore fordäjelsesorganer. Samtidig
+ :er det nädvendigt at få tilfärt öggehvidestoffer, pro-
+ :tein, idet kroppen for en stor del består af öggehvide-
 *:LESSON28_D7
 I:(7)
 D:stoffer.
- :taget vokser vort öjne derved fattige hoved höje isär
- :taget vokser vort öjne derved fattige hoved höje isär
+ :taget vokser vort äjne derved fattige hoved häje isör
+ :taget vokser vort äjne derved fattige hoved häje isör
  :langsomt ligner råbte ro time tusinde bare dårlig eneste
 *:LESSON28_D8
 I:(8)
@@ -1125,34 +1125,34 @@ G:E_LESSON28
 
 *:S_LESSON29
 K:12:MENU
-B:         Lesson 29: Lektion 29: Repetition og övelser 18
+B:         Lesson 29: Lektion 29: Repetition og ävelser 18
 *:LESSON29_D1
 I:(1)
 D:aiqy bjrz aiqy bjrz aiqy bjrz aiqy bjrz aiqy bjrz
  :emuå fnw, emuå fnw, emuå fnw, emuå fnw, emuå fnw,
- :3 stk. autobörster nr. 2172 a kr. 18,25
- :4 stk. autobörster nr. 2179 a kr. 16,35
+ :3 stk. autobärster nr. 2172 a kr. 18,25
+ :4 stk. autobärster nr. 2179 a kr. 16,35
 *:LESSON29_D2
 I:(2)
-D:I de egne af jorden, der er hjemsögt af jordskälv, findes
+D:I de egne af jorden, der er hjemsägt af jordskölv, findes
  :der også vulkaner. Man har kaldt dem ildsprudende bjerge,
  :men der er ikke ild, der kommer ud af vulkanerne, det er
- :smeltede, glödende stenmasser og store mängder af vand-
+ :smeltede, glädende stenmasser og store möngder af vand-
 *:LESSON29_D3
 I:(3)
-D:damp og andre luftarter, der sammen med stöv, grus og sten
- :undertiden slynges kilometerhöjt til vejrs. Disse masser
+D:damp og andre luftarter, der sammen med stäv, grus og sten
+ :undertiden slynges kilometerhäjt til vejrs. Disse masser
  :oplyses nedefra, og det ser derfor ud, som om det er ild,
  :der står ud af bjergets åbning.
 *:LESSON29_D4
 I:(4)
-D:Man troede tidligere, at vulkanernes glödende masser kom
- :fra et smeltet jordindre. I vore dage hälder man til den
+D:Man troede tidligere, at vulkanernes glädende masser kom
+ :fra et smeltet jordindre. I vore dage hölder man til den
  :anskuelse, at der i tyve til tredive kilometers dybte un-
  :der jordoverfladen foregår radioaktive processer, hvorved
 *:LESSON29_D5
 I:(5)
-D:der opstår så höj en temperatur, at de fleste klipper smel-
+D:der opstår så häj en temperatur, at de fleste klipper smel-
  :ter.
  :Den smeltede masse kaldes magma. Denne masse bliver ved
  :ophedningen lettere end de omgivende faste dele, og den
@@ -1160,66 +1160,66 @@ D:der opstår så höj en temperatur, at de fleste klipper smel-
 I:(6)
 D:smelter sig derfor vej opefter igennem de endnu faste
  :klipper. Magmaen indeholder mange forskellige luftarter,
- :bland andet enorme mängder af vanddamp. Når jordskorpen
+ :bland andet enorme möngder af vanddamp. Når jordskorpen
  :ved vulkanudbruddet gennembrydes, slynges dele af den
 *:LESSON29_D7
 I:(7)
-D:sönderbrudte jordskorpe sammen med glödende magmadele til
+D:sänderbrudte jordskorpe sammen med glädende magmadele til
  :vejrs med de eksploderende luftarter.
- :enkelte faldt färdige hörte käre livet löber när sommeren
- :enkelte faldt färdige hörte käre livet löber när sommeren
+ :enkelte faldt fördige härte köre livet läber nör sommeren
+ :enkelte faldt fördige härte köre livet läber nör sommeren
 G:E_LESSON29
 
 *:S_LESSON30
 K:12:MENU
-B:         Lesson 30: Lektion 30: Repetition og övelser 19
+B:         Lesson 30: Lektion 30: Repetition og ävelser 19
 *:LESSON30_D1
 I:(1)
-D:cksä dltö cksä dltö cksä dltö cksä dltö cksä dltö
+D:cksö dltä cksö dltä cksö dltä cksö dltä cksö dltä
  :gov. hpx- gov. hpx- gov. hpx- gov. hpx- gov. hpx-
  :Afgang hver mandag kl. 6.35 og hver fredag kl. 7.25
  :Afgang hver mandag kl. 6.35 og hver fredag kl. 7.25
 *:LESSON30_D2
 I:(2)
-D:Når vinden kommer fra havet, förer den altid vand med sig
- :ind over land. Det kan väre vanddamp eller vanddråber. Så
- :länge luften endnu ikke er mättet med vanddamp, kan den
- :stadig optage mere vand, og den virker derfor udtörrende.
+D:Når vinden kommer fra havet, färer den altid vand med sig
+ :ind over land. Det kan vöre vanddamp eller vanddråber. Så
+ :lönge luften endnu ikke er möttet med vanddamp, kan den
+ :stadig optage mere vand, og den virker derfor udtärrende.
 *:LESSON30_D3
 I:(3)
 D:Når den under en given temperatur ikke kan optage mere
- :vanddamp, siger man, at den er mättet. Ved temperaturstig-
+ :vanddamp, siger man, at den er möttet. Ved temperaturstig-
  :ning kan luften optage mere vand, ved temperaturfald kon-
- :denseres, det vil sige fortättes vanddampen. Man taler så
+ :denseres, det vil sige fortöttes vanddampen. Man taler så
 *:LESSON30_D4
 I:(4)
 D:om, at temperaturen har nået dugpunktet.
- :Bäres de vandmättede luftströmme ind over land i lav höj-
- :de, kaldes de tågebanker. Driver de höjere oppe, kaldes
- :de skyer. Disse dannes nästen altid, hvor kold og varm
+ :Böres de vandmöttede luftsträmme ind over land i lav häj-
+ :de, kaldes de tågebanker. Driver de häjere oppe, kaldes
+ :de skyer. Disse dannes nösten altid, hvor kold og varm
 *:LESSON30_D5
 I:(5)
-D:luft mödes. Hvor en vandfyldt luftmasse hurtigt afköles,
+D:luft mädes. Hvor en vandfyldt luftmasse hurtigt afkäles,
  :kan man se skyer vokse frem med stor hastighed. Vanddrå-
- :berne i skyerne vil, så länge de er små, kunne holdes
- :svävende meget länge på grund af opstigende varm luft.
+ :berne i skyerne vil, så lönge de er små, kunne holdes
+ :svövende meget lönge på grund af opstigende varm luft.
 *:LESSON30_D6
 I:(6)
 D:Hvis opdriften aftager, og dråberne bliver tunge, vil de
  :falde ned som regn. Hvis varm luft glider ind over kold
- :luft, vil vi nästen altid få silende heldagsregn. Skyder
+ :luft, vil vi nösten altid få silende heldagsregn. Skyder
  :kold luft ind under varm luft, får vi kraftige byger.
 *:LESSON30_D7
 I:(7)
-D:ting vidste året blandt f.eks. forstod hjälp hvorfor
- :ting vidste året blandt f.eks. forstod hjälp hvorfor
- :hvorledes kort navn tak vender väldige bede ca. kunne
- :hvorledes kort navn tak vender väldige bede ca. kunne
+D:ting vidste året blandt f.eks. forstod hjölp hvorfor
+ :ting vidste året blandt f.eks. forstod hjölp hvorfor
+ :hvorledes kort navn tak vender völdige bede ca. kunne
+ :hvorledes kort navn tak vender völdige bede ca. kunne
 G:E_LESSON30
 
 *:S_LESSON31
 K:12:MENU
-B:Lesson 31: Lektion 31: Afhjälpning af typiske fejl: ae as bv cv dk ds ea ei
+B:Lesson 31: Lektion 31: Afhjölpning af typiske fejl: ae as bv cv dk ds ea ei
 *:LESSON31_D1
 I:(1)
 D:ansvar afklar attrap klar bank sanktion transaktion aks
@@ -1229,14 +1229,14 @@ D:ansvar afklar attrap klar bank sanktion transaktion aks
 *:LESSON31_D2
 I:(2)
 D:barbar barnebarn bank brobyggeri bredbladet birkebarken
- :benbrud babybad bänkebidder berberis bäger begriber bue
+ :benbrud babybad bönkebidder berberis böger begriber bue
  :central citrus center chintz celcius cafe check cowboys
  :cif cyklus cocktail cognac accept calcium succes cancan
 *:LESSON31_D3
 I:(3)
-D:dine adfärd med dag udsende daddel ild dit dyd dividere
- :dåd dodder dödsdömt ding dang räd dödvande dåvildt säde
- :dale der den addere dem odder dagdriver dröm dog handle
+D:dine adförd med dag udsende daddel ild dit dyd dividere
+ :dåd dodder dädsdämt ding dang röd dädvande dåvildt söde
+ :dale der den addere dem odder dagdriver dräm dog handle
  :did dadel dato dedikation debet ideel dernede dolk drik
 *:LESSON31_D4
 I:(4)
@@ -1248,22 +1248,22 @@ G:E_LESSON31
 
 *:S_LESSON32
 K:12:MENU
-B:Lesson 32: Lektion 32: Afhjälpning af typiske fejl: fg gf gh hg hj ie io jh
+B:Lesson 32: Lektion 32: Afhjölpning af typiske fejl: fg gf gh hg hj ie io jh
 *:LESSON32_D1
 I:(1)
-D:frafald fast fabel affald offer efter förste forfald af
+D:frafald fast fabel affald offer efter färste forfald af
  :asfalt fosfor forfatter frakke frifinde fred fanfare få
- :og gengive gö angå sagogryn goddag geolog gerrig gäring
- :gage gang gengäld genopbygge gigt gul god gale gav gäre
+ :og gengive gä angå sagogryn goddag geolog gerrig göring
+ :gage gang gengöld genopbygge gigt gul god gale gav göre
 *:LESSON32_D2
 I:(2)
-D:gage gengäld gibs giv lägge gags gang gruble gys agerer
- :engagere gamling genganger gul grön göre agent gnu ugle
- :hjem henhold ham handel hvem har hippie höjhalset höjre
- :hed hen hvorhen handske hejre hjerte höns hilsen höjhed
+D:gage gengöld gibs giv lögge gags gang gruble gys agerer
+ :engagere gamling genganger gul grän gäre agent gnu ugle
+ :hjem henhold ham handel hvem har hippie häjhalset häjre
+ :hed hen hvorhen handske hejre hjerte häns hilsen häjhed
 *:LESSON32_D3
 I:(3)
-D:her hen ham henhold have häk hasard charme hilsen hvede
+D:her hen ham henhold have hök hasard charme hilsen hvede
  :holden hud handel hundehus hvalp husholder hastig hilse
  :ind ild hils bring ir ris fri sit tidlig giftig million
  :iltog ironi biologi triologi irritation citat ilt idiot
@@ -1271,13 +1271,13 @@ D:her hen ham henhold have häk hasard charme hilsen hvede
 I:(4)
 D:elite erika incitament initiativ irriterende indbinding
  :individ indianer indesidden indblik indicere indeks ilt
- :jul jeres ja juli jazz jävn kajak jetjager jasmin juice
- :jakke eje dej jo juni jävn jet jura journal januar jury
+ :jul jeres ja juli jazz jövn kajak jetjager jasmin juice
+ :jakke eje dej jo juni jövn jet jura journal januar jury
 G:E_LESSON32
 
 *:S_LESSON33
 K:12:MENU
-B:Lesson 33: Lektion 33: Afhjälpning af typiske fejl: kd kl lk ls mn nm nv oi
+B:Lesson 33: Lektion 33: Afhjölpning af typiske fejl: kd kl lk ls mn nm nv oi
 *:LESSON33_D1
 I:(1)
 D:kukkuk anke kokon kollekt koks kokken kolerisk kompleks
@@ -1286,73 +1286,73 @@ D:kukkuk anke kokon kollekt koks kokken kolerisk kompleks
  :kurs dukke kamik kikke krukke konkurrence kram kokarder
 *:LESSON33_D2
 I:(2)
-D:lille lovlig linoleum ligelön ligestilling lanolin lang
- :levere alle lolländer lynlås lägelig lilje läspe lös lå
- :lak tallerken lov låg lo le al mel lolländer lovlig läk
- :lemfäldig lette kolonial livlig löfte ligelön lotto ild
+D:lille lovlig linoleum ligelän ligestilling lanolin lang
+ :levere alle lollönder lynlås lögelig lilje löspe läs lå
+ :lak tallerken lov låg lo le al mel lollönder lovlig lök
+ :lemföldig lette kolonial livlig läfte ligelän lotto ild
 *:LESSON33_D3
 I:(3)
 D:meddele mest mammut medbestemmelse meddelelsesmiddel må
- :museum mulig mölle mägler mad mere mamma murer mime mut
- :nedennävnte anerkende nogen nonne navnlig nödvendig nat
- :nuance nänne nästen nödlande nävninge notabene nationen
+ :museum mulig mälle mögler mad mere mamma murer mime mut
+ :nedennövnte anerkende nogen nonne navnlig nädvendig nat
+ :nuance nönne nösten nädlande növninge notabene nationen
 *:LESSON33_D4
 I:(4)
-D:nänne nat anden näsen renden nonnen nynner kinden sneen
- :nankin neon niende nonsens inden bönne rank kunne kanon
+D:nönne nat anden nösen renden nonnen nynner kinden sneen
+ :nankin neon niende nonsens inden bänne rank kunne kanon
  :opera også omsorg oldemoder oktober oldenborre opponent
- :omsonst nordre optog ordre overopsyn ortopäd opfordrede
+ :omsonst nordre optog ordre overopsyn ortopöd opfordrede
 G:E_LESSON33
 
 *:S_LESSON34
 K:12:MENU
-B:Lesson 34: Lektion 34: Afhjälpning af typiske fejl: op på rt sd sl tr uy vb
+B:Lesson 34: Lektion 34: Afhjölpning af typiske fejl: op på rt sd sl tr uy vb
 *:LESSON34_D1
 I:(1)
 D:overliste odont ottoman orlov ozon ovenover sort oboist
  :orgel ortografi obo tons jolle oktav ornotolog over tom
- :papir paprika paraply papäske poplin polyfoto polo oppe
+ :papir paprika paraply papöske poplin polyfoto polo oppe
  :propaganda opponent psykologi prydplante pamper primula
 *:LESSON34_D2
 I:(2)
 D:rare radere reol reparere rang referere rar reform roer
- :regenerere redegöre rapir redder raseri rekreere ringer
+ :regenerere redegäre rapir redder raseri rekreere ringer
  :stang scene saksofon svensk serie esse små snavs shorts
  :sanse solo sanktion siesta sekvens sne saft se souschef
 *:LESSON34_D3
 I:(3)
-D:grosserer sanse straks skanse sit sans skrift skänd sti
- :standse grossist sko hastesag svar forespörge som sidst
- :tätte tekst tast titel tiltag tomt tvist tylt tautologi
- :teint tyst team tantieme tendentiös atlet tiltale talte
+D:grosserer sanse straks skanse sit sans skrift skönd sti
+ :standse grossist sko hastesag svar forespärge som sidst
+ :tötte tekst tast titel tiltag tomt tvist tylt tautologi
+ :teint tyst team tantieme tendentiäs atlet tiltale talte
 *:LESSON34_D4
 I:(4)
 D:under uvane udelukkende udsalg uformuende udsultet ulve
  :udhus ukultiveret undergrund ukulele ukuelig ukrudt urt
  :vende veksel vanvare vrang vedvarende via venlige vodka
- :viv viske väv väske värelse värdi hverv vegne varer var
+ :viv viske vöv vöske vörelse vördi hverv vegne varer var
 G:E_LESSON34
 
 *:S_LESSON35
 K:12:MENU
-B:Lesson 35: Lektion 35: Afhjälpning af typiske fejl: vn xc yu äö öä åp ,. .,
+B:Lesson 35: Lektion 35: Afhjölpning af typiske fejl: vn xc yu öä äö åp ,. .,
 *:LESSON35_D1
 I:(1)
-D:virvar vrag väver var vrövl vi vove väv voksevärket vov
+D:virvar vrag vöver var vrävl vi vove vöv voksevörket vov
  :vil votiv vovelige viv vivace hvor vistra ivrige valuta
  :xerografi xylofon xeroform xenia oxygen oxydere saxofon
  :axminster foxtrot hydroxyl mixed mixtur flux box oxford
 *:LESSON35_D2
 I:(2)
-D:ydeevne yderligere tydelig ytre ynkvärdig synlig myndig
+D:ydeevne yderligere tydelig ytre ynkvördig synlig myndig
  :yalelås byrde cykel ypperste lymfe ydmyg yoga ny lyd sy
- :äbleträ ärekär ärbar ärlig ärkefjende ärgerrig äter kär
- :äske päreträ nänsom ändre bläse udträkke händelse äsler
+ :öbletrö örekör örbar örlig örkefjende örgerrig öter kör
+ :öske pöretrö nönsom öndre blöse udtrökke höndelse ösler
 *:LESSON35_D3
 I:(3)
-D:örkeslös öredövende ökonomi öjeblik östrigsk önske töve
- :östers östersöen önskedröm kön lön höns öllebröd ökonom
- :åben rå åndelös åndfuld århusianer tåbe låne dåne sådan
+D:ärkesläs äredävende äkonomi äjeblik ästrigsk änske täve
+ :ästers ästersäen änskedräm kän län häns ällebräd äkonom
+ :åben rå åndeläs åndfuld århusianer tåbe låne dåne sådan
  :både vådeskud tårn skåne åre lås hånd når måne åben sår
 *:LESSON35_D4
 I:(4)
@@ -1364,31 +1364,31 @@ G:E_LESSON35
 
 *:S_LESSON36
 K:12:MENU
-B:    Lesson 36: Lektion 36: Träning i hastighed og sikkerhed, 1
+B:    Lesson 36: Lektion 36: Tröning i hastighed og sikkerhed, 1
 *:LESSON36_D1
 I:(1)
 D:Lige siden huleboerne for tredive tusinde år siden malede
- :på drypstensgrotternes vägge, har menneskene prövet på at
- :afskaffe den grå hverdag og göre livet mere farverigt. De
- :har prövet at efterligne naturens farvepragt, og de har
+ :på drypstensgrotternes vögge, har menneskene prävet på at
+ :afskaffe den grå hverdag og gäre livet mere farverigt. De
+ :har prävet at efterligne naturens farvepragt, og de har
 *:LESSON36_D2
 I:(2)
 D:lidt efter lidt erfaret, at farverne har stor psykologisk
- :betydning med stärk indvirkning på gemyttet. Tidligere gem-
- :te mennesker sig bag mörke farver. Stuernes vägge var mör-
- :kegrönne, eller brune, og gardinerne holdt brutalt lyset ude.
+ :betydning med störk indvirkning på gemyttet. Tidligere gem-
+ :te mennesker sig bag märke farver. Stuernes vögge var mär-
+ :kegränne, eller brune, og gardinerne holdt brutalt lyset ude.
 *:LESSON36_D3
 I:(3)
-D:Möbler var betrukket med sorte hestehår, og det töj, man
- :bar, var også mörkt og trist. Vor tid er i langt höjere
- :grad farveforbrugende. Takket väre kemien og industrien,
+D:Mäbler var betrukket med sorte hestehår, og det täj, man
+ :bar, var også märkt og trist. Vor tid er i langt häjere
+ :grad farveforbrugende. Takket vöre kemien og industrien,
  :der siden anden verdenskrig har gennemgået en rivende ud-
 *:LESSON36_D4
 I:(4)
-D:vikling, har vi i dag flere muligheder end nogen sinde för
- :for at tilfredstille vor latente farvegläde. Der er dog
- :först i de seneste år, at farverne virkelig har lavet om på
- :vor hverdag og har präget vor tilvärelse - regnbuen er ble-
+D:vikling, har vi i dag flere muligheder end nogen sinde fär
+ :for at tilfredstille vor latente farveglöde. Der er dog
+ :färst i de seneste år, at farverne virkelig har lavet om på
+ :vor hverdag og har pröget vor tilvörelse - regnbuen er ble-
 *:LESSON36_D5
 I:(5)
 D:vet hvermands eje.
@@ -1396,19 +1396,19 @@ G:E_LESSON36
 
 *:S_LESSON37
 K:12:MENU
-B:    Lesson 37: Lektion 37: Träning i hastighed og sikkerhed, 2
+B:    Lesson 37: Lektion 37: Tröning i hastighed og sikkerhed, 2
 *:LESSON37_D1
 I:(1)
 D:Syntetiske farver og plasticmaling har gjort det nemt for
- :enhver ar sätte kulör på hjemmet. Ingen er bange for at ta-
- :ge en pensel og en bötte maling og smöre solskin på hjem-
- :mets vägge. Familiens medlemmer har fundet en ny fälles in-
+ :enhver ar sötte kulär på hjemmet. Ingen er bange for at ta-
+ :ge en pensel og en bätte maling og smäre solskin på hjem-
+ :mets vögge. Familiens medlemmer har fundet en ny fölles in-
 *:LESSON37_D2
 I:(2)
 D:teresse. Farvehandlerens butik bugner med materialerm, som
- :kan live op og skabe humör. Der er mode i farver. Når en
+ :kan live op og skabe humär. Der er mode i farver. Når en
  :modeskaber i Paris bestemmer, at nu skal kvinderne gå i
- :beige og grönt, så sidder farvefabrikanterne ved hans föd-
+ :beige og gränt, så sidder farvefabrikanterne ved hans fäd-
 *:LESSON37_D3
 I:(3)
 D:der og kigger med og indretter produktionen derefter. Rå-
@@ -1418,213 +1418,213 @@ D:der og kigger med og indretter produktionen derefter. Rå-
 *:LESSON37_D4
 I:(4)
 D:tre lige store dele, nemlig farvestof, bindemiddel og for-
- :tyndingsväske. Farvestoffet - eller pigmentet - blev oprin-
- :deligt fremstillet af planteudträk, men det produceres nu
- :ad kemisk vej. Bindemidlet kan väre vand, alkyder eller ve-
+ :tyndingsvöske. Farvestoffet - eller pigmentet - blev oprin-
+ :deligt fremstillet af planteudtrök, men det produceres nu
+ :ad kemisk vej. Bindemidlet kan vöre vand, alkyder eller ve-
 *:LESSON37_D5
 I:(5)
-D:getabilske olier. Fortyndingsväsken er terpentin eller
+D:getabilske olier. Fortyndingsvösken er terpentin eller
  :kulbrinte.
 G:E_LESSON37
 
 *:S_LESSON38
 K:12:MENU
-B:    Lesson 38: Lektion 38: Träning i hastighed og sikkerhed, 3
+B:    Lesson 38: Lektion 38: Tröning i hastighed og sikkerhed, 3
 *:LESSON38_D1
 I:(1)
 D:Tiden går. Den er kostbar, og den skal udnyttes. Det er en
- :gammel erfaring, men sätningens förste ord er ikke helt så
+ :gammel erfaring, men sötningens färste ord er ikke helt så
  :ligetil. Tiden er et begreb, som vi kender godt fra vore
- :sanser, og som dog er så svärt at definere. Men vi kan må-
+ :sanser, og som dog er så svört at definere. Men vi kan må-
 *:LESSON38_D2
 I:(2)
 D:le tiden. I os har vi et indbygget tidsmål, pulsslagene,
- :ca. et i sekundet, somme tider flere, somme tider färre.
+ :ca. et i sekundet, somme tider flere, somme tider förre.
  :Solen angiver dag og nat, og de fire årstider skifter. Vi
- :kan ikke opfatte kortere tider end et öjes blinken og län-
+ :kan ikke opfatte kortere tider end et äjes blinken og lön-
 *:LESSON38_D3
 I:(3)
 D:gere tider end vort eget liv, men alligevel ved vi, at ti-
- :den går tilbage för vor födsel og vil fortsätte efter vor
- :död - men denne viden ligger uden for vore sansers opfat-
+ :den går tilbage fär vor fädsel og vil fortsötte efter vor
+ :däd - men denne viden ligger uden for vore sansers opfat-
  :telsesevne. Vi kan ikke forbedre vore sanser, man vi kan
 *:LESSON38_D4
 I:(4)
 D:skaffe os redskaber, som deler tiden op. Vi kan lave ure.
  :Primitive folkeslag kan klare sig med den inddeling af ti-
- :den, som solens gang hen over himlen giver. De kan nöjes
+ :den, som solens gang hen over himlen giver. De kan näjes
  :med at dele dagen i morgen, middag, aften og nat.
 G:E_LESSON38
 
 *:S_LESSON39
 K:12:MENU
-B:    Lesson 39: Lektion 39: Träning i hastighed og sikkerhed, 4
+B:    Lesson 39: Lektion 39: Tröning i hastighed og sikkerhed, 4
 *:LESSON39_D1
 I:(1)
-D:Denne inddeling ville ikke väre tilsträkkelig i et höjt ud-
- :viklet samfund som vort, hvor folk skal möde på arbejde til
+D:Denne inddeling ville ikke vöre tilströkkelig i et häjt ud-
+ :viklet samfund som vort, hvor folk skal mäde på arbejde til
  :fastsatte tider, og hvor arbejdets varighed er målt ud i
  :tid efter overenskomster mellem arbejdsgivere og arbejdsta-
 *:LESSON39_D2
 I:(2)
 D:gere. Også fritidens interessante tv-underholdning begynder
- :med sekunders nöjagtighed på klokkeslet fastsat ugen i for-
- :vejen. Det hele lyder så nemt, men er dog så svärt, for al-
- :le skal jo väre enige om, hvorfra tiden skal tälles, hvilke
+ :med sekunders näjagtighed på klokkeslet fastsat ugen i for-
+ :vejen. Det hele lyder så nemt, men er dog så svört, for al-
+ :le skal jo vöre enige om, hvorfra tiden skal tölles, hvilke
 *:LESSON39_D3
 I:(3)
-D:enheder der skal välges, og urene skal gå ens. Solens dag-
- :lige bevägelse rundt om jorden er kun tilsyneladende. Det
- :er jo jorden, som en gang i dögnet drejer rundt om sin egen
- :akse, og hele systemet udgör et mägtigt og temmeligt präcist
+D:enheder der skal völges, og urene skal gå ens. Solens dag-
+ :lige bevögelse rundt om jorden er kun tilsyneladende. Det
+ :er jo jorden, som en gang i dägnet drejer rundt om sin egen
+ :akse, og hele systemet udgär et mögtigt og temmeligt pröcist
 *:LESSON39_D4
 I:(4)
-D:ur, som vi kan konstruere mekaniske ure til at fölge og
- :samtidig benytte til at kontrollere disse ures nöjagtige
+D:ur, som vi kan konstruere mekaniske ure til at fälge og
+ :samtidig benytte til at kontrollere disse ures näjagtige
  :gang.
 G:E_LESSON39
 
 *:S_LESSON40
 K:12:MENU
-B:    Lesson 40: Lektion 40: Träning i hastighed og sikkerhed, 5
+B:    Lesson 40: Lektion 40: Tröning i hastighed og sikkerhed, 5
 *:LESSON40_D1
 I:(1)
-D:Fyrväsenet er grundlagt af sörövere - dog ikke det danske
- :fyr- og vagerväsen, men oldtidens og den tidlige middelal-
- :ders fyrväsener i Middelhavet. Dette store indhav var i år-
- :hundreder hjemsögt af sörövere, der opererede fra uindtage-
+D:Fyrvösenet er grundlagt af särävere - dog ikke det danske
+ :fyr- og vagervösen, men oldtidens og den tidlige middelal-
+ :ders fyrvösener i Middelhavet. Dette store indhav var i år-
+ :hundreder hjemsägt af särävere, der opererede fra uindtage-
 *:LESSON40_D2
 I:(2)
-D:lige borge på klippekyster og drog härgende rundt i alle
- :middelhavsegnene. De lod opsätte fyr og ansatte formentlig
+D:lige borge på klippekyster og drog hörgende rundt i alle
+ :middelhavsegnene. De lod opsötte fyr og ansatte formentlig
  :folk til at passe blussene - simpelt hen for bedre at kun-
  :ne finde rundt. De var jo ret interesserede i at kunne ope-
 *:LESSON40_D3
 I:(3)
 D:rere om natten. Der var dog også mere officielle fyr alle-
- :rede i oldtiden. Berömt er isär fyrtårnet Pharos, et af den
- :gamle verdens syv undervärker. Det er meget sandsynligt, at
- :de danske vikinger, der også hovedsagelig bevägede sig
+ :rede i oldtiden. Berämt er isör fyrtårnet Pharos, et af den
+ :gamle verdens syv undervörker. Det er meget sandsynligt, at
+ :de danske vikinger, der også hovedsagelig bevögede sig
 *:LESSON40_D4
 I:(4)
-D:langs kysterne, har haft faste aftaler om at holde bränden-
+D:langs kysterne, har haft faste aftaler om at holde brönden-
  :de bavner vedlige passende steder, når de skulle drage i
  :leding, eller vikingeflåden var ventet hjem.
 G:E_LESSON40
 
 *:S_LESSON41
 K:12:MENU
-B:    Lesson 41: Lektion 41: Träning i hastighed og sikkerhed, 6
+B:    Lesson 41: Lektion 41: Tröning i hastighed og sikkerhed, 6
 *:LESSON41_D1
 I:(1)
-D:Förste vidnesbyrd om et offentligt forordnet fyr i Dan-
- :mark stammer fra Dragör - en af de pladser ved öresunds
+D:Färste vidnesbyrd om et offentligt forordnet fyr i Dan-
+ :mark stammer fra Dragär - en af de pladser ved äresunds
  :bredder, hvor der i middelalderen var marked om efteråret
- :i de århundreder, da silden kunne fiskes her i uhyre mäng-
+ :i de århundreder, da silden kunne fiskes her i uhyre möng-
 *:LESSON41_D2
 I:(2)
 D:der. I over tre hundrede år blussede man på stranden i
- :Dragör for at vise skibene fra hansestäderne vej. Det var
+ :Dragär for at vise skibene fra hansestöderne vej. Det var
  :Frederik den Anden, der forordnede fyr opsat på Skagen,
  :Anholt og Kullen. Besked om fyrenes anordning blev sendt
 *:LESSON41_D3
 I:(3)
-D:ud gennem toldväsenet i Helsingör, der jo i kraft af sund-
+D:ud gennem toldvösenet i Helsingär, der jo i kraft af sund-
  :tolden var den mest internationalt orienterede by i Norden.
- :Af en eller anden grund kaldte man dem papegöjefyr. Da man
- :ikke kender deres konstruktion, er det svärt at gätte hvor-
+ :Af en eller anden grund kaldte man dem papegäjefyr. Da man
+ :ikke kender deres konstruktion, er det svört at götte hvor-
 *:LESSON41_D4
 I:(4)
 D:for. Det menes, at fyrene har bestået af en fyrpande på
- :toppen af en mast, og at man har fyret med brände. I så
- :fald har man vel sammenlignet med de kunstige papegöjer på
- :en stang, som skydebrödre sköd til måls efter. Masten har
+ :toppen af en mast, og at man har fyret med brönde. I så
+ :fald har man vel sammenlignet med de kunstige papegäjer på
+ :en stang, som skydebrädre skäd til måls efter. Masten har
 *:LESSON41_D5
 I:(5)
-D:näppe väret höjere, end at fyrmesteren har kunnet holde
- :blusset vedlige ved hjälp af en stige.
+D:nöppe vöret häjere, end at fyrmesteren har kunnet holde
+ :blusset vedlige ved hjölp af en stige.
 G:E_LESSON41
 
 *:S_LESSON42
 K:12:MENU
-B:    Lesson 42: Lektion 42: Träning i hastighed og sikkerhed, 7
+B:    Lesson 42: Lektion 42: Tröning i hastighed og sikkerhed, 7
 *:LESSON42_D1
 I:(1)
-D:Betegnelsen ökologi kommer af det gräske ord oikos, der be-
+D:Betegnelsen äkologi kommer af det gröske ord oikos, der be-
  :tyder hus, levested eller lignende. Den videnskab, der be-
- :skäftiger sig med lären om organismerne i deres naturlige
+ :sköftiger sig med lören om organismerne i deres naturlige
  :omgivelser eller - sagt på en anden måde - med naturens
 *:LESSON42_D2
 I:(2)
-D:struktur og funktion, kaldes ökologi, der som selvständig
- :videnskab er relativ ung. Dens forskningsprogram er först
+D:struktur og funktion, kaldes äkologi, der som selvstöndig
+ :videnskab er relativ ung. Dens forskningsprogram er färst
  :blevet klart formuleret i det tyvende århundrede. Det har
- :dog altid väret således, at jägere, diskere, kvägavlere og
+ :dog altid vöret således, at jögere, diskere, kvögavlere og
 *:LESSON42_D3
 I:(3)
 D:agerdyrkere som en ganske naturlig ting har arbejdet ud fra
- :ökologiske grundtanker. For disse mennesker er der ikke ta-
- :le om en ophöjet videnskab, de arbejder simpelt hen ud fra
- :deres egen dömmekraft og ud fra de erfaringer, der er op-
+ :äkologiske grundtanker. For disse mennesker er der ikke ta-
+ :le om en ophäjet videnskab, de arbejder simpelt hen ud fra
+ :deres egen dämmekraft og ud fra de erfaringer, der er op-
 *:LESSON42_D4
 I:(4)
-D:samlet gennem generationer. Som eksempel kan nävnes, at
- :agerdyrkeren besträber sig på, at afgröden skal give det
- :störst mulige udbytte. Han gör dette ved at udvälge plan-
+D:samlet gennem generationer. Som eksempel kan növnes, at
+ :agerdyrkeren beströber sig på, at afgräden skal give det
+ :stärst mulige udbytte. Han gär dette ved at udvölge plan-
  :tesorter, der passer til klima og jordbund. Han passer dem
 *:LESSON42_D5
 I:(5)
 D:og griber ind med regulerede foranstaltninger, hvis en
- :faktor svigter eller tager overhånd. Der gödes, kunstvan-
- :des eller plantes lähegn.
+ :faktor svigter eller tager overhånd. Der gädes, kunstvan-
+ :des eller plantes löhegn.
 G:E_LESSON42
 
 *:S_LESSON43
 K:12:MENU
-B:    Lesson 43: Lektion 43: Träning i hastighed og sikkerhed, 8
+B:    Lesson 43: Lektion 43: Tröning i hastighed og sikkerhed, 8
 *:LESSON43_D1
 I:(1)
-D:På en räkke afgörende punkter kan ökologien tjene menneske-
+D:På en rökke afgärende punkter kan äkologien tjene menneske-
  :hedens sag, og aldrig nogen sinde har behovet for viden og
- :forståelse på dette område väret större end netop nu. Med
+ :forståelse på dette område vöret stärre end netop nu. Med
  :de enorme tekniske muligheder, der står til rådighed for
 *:LESSON43_D2
 I:(2)
-D:mennesker i dag, har vi opnået en uhyggelig evne til at än-
+D:mennesker i dag, har vi opnået en uhyggelig evne til at ön-
  :dre og kontrollere vore omgivelser. Vor indsigt i de natur-
- :lige systemer, som vi pröver på at ändre, er ikke fulgt med
- :den större tekniske formåen. Uden ökologisk viden kontrol-
+ :lige systemer, som vi präver på at öndre, er ikke fulgt med
+ :den stärre tekniske formåen. Uden äkologisk viden kontrol-
 *:LESSON43_D3
 I:(3)
 D:lerer og bruger vi naturen i blinde, og som i de fleste til-
- :fälde, hvor en ukyndig söger at gribe ind i en kompliceret
- :mekanisme, förer dette til ödeläggelse. ödelägges den natur-
+ :földe, hvor en ukyndig säger at gribe ind i en kompliceret
+ :mekanisme, färer dette til ädelöggelse. ädelögges den natur-
  :lige balance i de processer, der foregår i naturen, kan ska-
 *:LESSON43_D4
 I:(4)
-D:den ikke göres god igen i en håndevending, det kan tage år-
- :tier, för den naturlige balance er genoprettet.
+D:den ikke gäres god igen i en håndevending, det kan tage år-
+ :tier, fär den naturlige balance er genoprettet.
 G:E_LESSON43
 
 *:S_LESSON44
 K:12:MENU
-B:    Lesson 44: Lektion 44: Träning i hastighed og sikkerhed, 9
+B:    Lesson 44: Lektion 44: Tröning i hastighed og sikkerhed, 9
 *:LESSON44_D1
 I:(1)
 D:Muskelinfiltrationer er en gigtsygdom, der viser sig ved
- :hårde, ömme knudedannelser i muskulaturen. De väsentligste
- :årsager hertil er kulde, träk og forceret arbejde i samme
- :stilling, men nervösitet i forbindelse med et dårligt ar-
+ :hårde, ämme knudedannelser i muskulaturen. De vösentligste
+ :årsager hertil er kulde, trök og forceret arbejde i samme
+ :stilling, men nerväsitet i forbindelse med et dårligt ar-
 *:LESSON44_D2
 I:(2)
-D:bejdsklima kan også väre årsag til lidelsen. Muskelstof-
- :skiftet hämmes, således at blodet ikke optager tilsträk-
+D:bejdsklima kan også vöre årsag til lidelsen. Muskelstof-
+ :skiftet hömmes, således at blodet ikke optager tilströk-
  :keligt ilt, og affaldsstofferne ikke fjernes hurtigt nok.
- :Spändingerne begynder langs muskelkanterne, hvor blodfor-
+ :Spöndingerne begynder langs muskelkanterne, hvor blodfor-
 *:LESSON44_D3
 I:(3)
 D:syningen er dårligst, og breder sig videre til sener og
- :underhudsväv. ömheden opstår, når det hårde muskelväv
+ :underhudsvöv. ämheden opstår, når det hårde muskelvöv
  :trykker på nerverne og gennem centralnervesystemet frem-
  :kalder irritationen. En stor del af det arbejde, der fo-
 *:LESSON44_D4
@@ -1632,36 +1632,36 @@ I:(4)
 D:regår på virksomhederne i dag, er specialiseret, og man-
  :ge mennesker er bundet til samme sted flere timer ad gan-
  :gen. Herved belastes kroppen hårdere end i perioder, hvor
- :der er mulighed for bevägelse, f.eks. i fritiden.
+ :der er mulighed for bevögelse, f.eks. i fritiden.
 G:E_LESSON44
 
 *:S_LESSON45
 K:12:MENU
-B:   Lesson 45: Lektion 45: Träning i hastighed og sikkerhed, 10
+B:   Lesson 45: Lektion 45: Tröning i hastighed og sikkerhed, 10
 *:LESSON45_D1
 I:(1)
-D:Skal muskelinfiltrationer undgås, gälder det om at skabe
- :et godt arbejdsmiljö. Rummets temperatur skal väre behage-
- :lig, og selve arbejdspladsen skal väre indrettet, således
- :at unödvendige anstrengelser undgås. Dårlig belysning kan
+D:Skal muskelinfiltrationer undgås, gölder det om at skabe
+ :et godt arbejdsmiljä. Rummets temperatur skal vöre behage-
+ :lig, og selve arbejdspladsen skal vöre indrettet, således
+ :at unädvendige anstrengelser undgås. Dårlig belysning kan
 *:LESSON45_D2
 I:(2)
-D:medföre hovedpine som fölge af spändinger i hals og nakke.
+D:medfäre hovedpine som fälge af spöndinger i hals og nakke.
  :De mennesker, der betjener regne- og skrivemaskiner, er
- :udsat for disse gener, hvis de sidder med löftede skuldre
- :og med hovedet drejet i en bestemt vinkel gennem längere
+ :udsat for disse gener, hvis de sidder med läftede skuldre
+ :og med hovedet drejet i en bestemt vinkel gennem löngere
 *:LESSON45_D3
 I:(3)
-D:tid. Hvis der ikke föres noget for at modvirke spändinger-
- :ne, bliver de angrebne dele af kroppen trätte og tunge, og
+D:tid. Hvis der ikke färes noget for at modvirke spöndinger-
+ :ne, bliver de angrebne dele af kroppen trötte og tunge, og
  :resultatet kan blive kroniske gigtlidelser. Ved behandling
- :af infiltrationerne må man först sätte ind på at fjerne
+ :af infiltrationerne må man färst sötte ind på at fjerne
 *:LESSON45_D4
 I:(4)
-D:årsagen til deres opståen, og dernäst må man lindre smer-
+D:årsagen til deres opståen, og dernöst må man lindre smer-
  :terne hos de personer, der har fået lidelsen. Behandlin-
- :gen består i kortbölge-, massage- eller varmebehandlinger,
- :som fremmer blodomlöbet, således at der tilföres mere ilt,
+ :gen består i kortbälge-, massage- eller varmebehandlinger,
+ :som fremmer blodomläbet, således at der tilfäres mere ilt,
 *:LESSON45_D5
 I:(5)
 D:og de ophobede affaldsstoffer fjernes.
@@ -1669,140 +1669,140 @@ G:E_LESSON45
 
 *:S_LESSON46
 K:12:MENU
-B:Lesson 46: Lektion 46: Folkeskolens pröve i hastighed og sikkerhed, 1
+B:Lesson 46: Lektion 46: Folkeskolens präve i hastighed og sikkerhed, 1
 *:LESSON46_D1
 I:(1)
-D:Hvis det gälder om at holde sig vågen, hjälper det at drikke
+D:Hvis det gölder om at holde sig vågen, hjölper det at drikke
  :en kop kaffe eller en kop te. Dette skyldes, at både teblade
- :og kaffebönner indeholder et stof, koffein, der blandt andet
- :har en märkelig evne til at fjerne trangen til sövn, uden at
+ :og kaffebänner indeholder et stof, koffein, der blandt andet
+ :har en mörkelig evne til at fjerne trangen til sävn, uden at
 *:LESSON46_D2
 I:(2)
 D:åndsevnerne påvirkes. Efter at man gar drukket en kop te el-
  :ler kaffe, vil koffeinet hurtigt blive optaget gennem mavens
- :og tarmens vägge. Allerede efter cirka et kvarters forlöb er
- :det muligt at måle virkningen, der varer i det näste par ti-
+ :og tarmens vögge. Allerede efter cirka et kvarters forläb er
+ :det muligt at måle virkningen, der varer i det nöste par ti-
 *:LESSON46_D3
 I:(3)
 D:mer. Man ved ikke meget om, hvordan det opkvikkende stof på-
- :virker vort nervesystem, og man må derfor indtil videre nöj-
+ :virker vort nervesystem, og man må derfor indtil videre näj-
  :es med at konstatere en vis positiv virkning på evnen til at
- :läre og ril at få ideer. Koffein i mindre portioner er uska-
+ :löre og ril at få ideer. Koffein i mindre portioner er uska-
 *:LESSON46_D4
 I:(4)
 D:deligt, men ved en dosis på over ti gram, der svarer til om-
- :kring hundrede kopper kaffe, bliver det dödeligt. Overdreven
- :nydelse af koffein kan give rystende händer og hjertebanken.
+ :kring hundrede kopper kaffe, bliver det dädeligt. Overdreven
+ :nydelse af koffein kan give rystende hönder og hjertebanken.
 G:E_LESSON46
 
 *:S_LESSON47
 K:12:MENU
-B:Lesson 47: Lektion 47: Folkeskolens pröve i hastighed og sikkerhed, 2
+B:Lesson 47: Lektion 47: Folkeskolens präve i hastighed og sikkerhed, 2
 *:LESSON47_D1
 I:(1)
-D:Det er normalt, at et lille barn i löbet af sit förste leve-
- :år har lärt at sige nogle få ord og udföre nogle enkle hånd-
- :bevägelser som at gribe noget og ryste det eller före det op
- :til munden. Som regel har det også lärt at kende sin familie
+D:Det er normalt, at et lille barn i läbet af sit färste leve-
+ :år har lört at sige nogle få ord og udfäre nogle enkle hånd-
+ :bevögelser som at gribe noget og ryste det eller färe det op
+ :til munden. Som regel har det også lört at kende sin familie
 *:LESSON47_D2
 I:(2)
-D:fra fremmede mennesker, og det er godt på vej til at läre at
- :gå. I denne tidligste barndom lärer de fleste börn nogenlun-
+D:fra fremmede mennesker, og det er godt på vej til at löre at
+ :gå. I denne tidligste barndom lörer de fleste bärn nogenlun-
  :de lige meget, og i virkeligheden er det en imponerende ind-
- :läringsproces, der finder sted i sådan en lille hjerne, selv
+ :löringsproces, der finder sted i sådan en lille hjerne, selv
 *:LESSON47_D3
 I:(3)
 D:om det ikke kommer så tydeligt til udtryk i det, barnet kan.
- :Spädbarnet skal isär läre at se tingene omkring sig som ting
- :og ikke blot som usammenhängende prikker og pletter. De man-
- :ge små sanseceller i öjnene sender nemlig besked om hver de-
+ :Spödbarnet skal isör löre at se tingene omkring sig som ting
+ :og ikke blot som usammenhöngende prikker og pletter. De man-
+ :ge små sanseceller i äjnene sender nemlig besked om hver de-
 *:LESSON47_D4
 I:(4)
-D:res lille del af synsfeltet til hjernen, som så skal läre at
- :sätte alle disse billeder sammen til en helhed, og först når
- :der er blevet lärt, opfatter barnet et ansigt som et ansigt.
+D:res lille del af synsfeltet til hjernen, som så skal löre at
+ :sötte alle disse billeder sammen til en helhed, og färst når
+ :der er blevet lört, opfatter barnet et ansigt som et ansigt.
 G:E_LESSON47
 
 *:S_LESSON48
 K:12:MENU
-B:Lesson 48: Lektion 48: Folkeskolens pröve i hastighed og sikkerhed, 3
+B:Lesson 48: Lektion 48: Folkeskolens präve i hastighed og sikkerhed, 3
 *:LESSON48_D1
 I:(1)
-D:Mange unge har en naturlig interesse i at beskäftige sig med
- :börn, og de fleste vil för eller senere få med börn at göre.
- :Barnepleje er således et livsnärt emne at tage op for eksem-
- :pel som et valgbart kursus for elever i skolens äldste klas-
+D:Mange unge har en naturlig interesse i at besköftige sig med
+ :bärn, og de fleste vil fär eller senere få med bärn at gäre.
+ :Barnepleje er således et livsnört emne at tage op for eksem-
+ :pel som et valgbart kursus for elever i skolens öldste klas-
 *:LESSON48_D2
 I:(2)
-D:ser. Formålet med denne undervisning må selvfölgelig väre at
- :give eleverne viden og färdigheder vedrörende småbörns pleje
+D:ser. Formålet med denne undervisning må selvfälgelig vöre at
+ :give eleverne viden og fördigheder vedrärende småbärns pleje
  :og pasning, og desuden skal de efterhånden også opnå indsigt
- :i det ansvar, som altid fölger med at have med börn at göre.
+ :i det ansvar, som altid fälger med at have med bärn at gäre.
 *:LESSON48_D3
 I:(3)
-D:Derfor bör arbejdet i timerne foregå på en sådan måde, at de
- :personlige egenskaber, der er nödvendige, hvis man skal kun-
- :ne påtage sig ansvaret for börn, bliver udviklet hos elever-
+D:Derfor bär arbejdet i timerne foregå på en sådan måde, at de
+ :personlige egenskaber, der er nädvendige, hvis man skal kun-
+ :ne påtage sig ansvaret for bärn, bliver udviklet hos elever-
  :ne. Undervisningen skal også indeholde en orientering om den
 *:LESSON48_D4
 I:(4)
-D:stötte og hjälp, som samfundet tilbyder en familie med börn.
- :Hvor det forekommer naturligt, bör man ikke alene omtale det
- :sunde barn, men også det handicappede barns särlige forhold.
+D:stätte og hjölp, som samfundet tilbyder en familie med bärn.
+ :Hvor det forekommer naturligt, bär man ikke alene omtale det
+ :sunde barn, men også det handicappede barns sörlige forhold.
 G:E_LESSON48
 
 *:S_LESSON49
 K:12:MENU
-B:Lesson 49: Lektion 49: Folkeskolens pröve i hastighed og sikkerhed, 4
+B:Lesson 49: Lektion 49: Folkeskolens präve i hastighed og sikkerhed, 4
 *:LESSON49_D1
 I:(1)
-D:Vore oldeforäldre i byerne tog en enkelt gang om året en tur
+D:Vore oldeforöldre i byerne tog en enkelt gang om året en tur
  :i skoven eller ud på landet i maj eller juni måned, når vej-
- :ret var godt. Oldefar var i sit bedste jakkesät. På födderne
- :havde han fjederstövler og på hovedet sin fine stråhat. Hvis
+ :ret var godt. Oldefar var i sit bedste jakkesöt. På fädderne
+ :havde han fjederstävler og på hovedet sin fine stråhat. Hvis
 *:LESSON49_D2
 I:(2)
-D:han smed jakken, så man hans tät tilknappede vest, og gennem
- :de ärmelöse gab stak hans skjorteärmer med de hvide, stivede
+D:han smed jakken, så man hans töt tilknappede vest, og gennem
+ :de örmeläse gab stak hans skjorteörmer med de hvide, stivede
  :manchetter. Blev varmen ulidelig, knappede han vesten op, så
- :man kunne se hans seler. Oldemor var i lang sort kjole, höj-
+ :man kunne se hans seler. Oldemor var i lang sort kjole, häj-
 *:LESSON49_D3
 I:(3)
 D:halset, besat med kniplinger. Håret, der var sat op på hove-
- :det, skärmede hun imod solen med sin sorte silkeparasol. Når
- :varmen blev helt uudholdelig, åbnede hun de höje knapstövler
- :en ganske lille smule. Frokosten belv indtaget i det grönne.
+ :det, skörmede hun imod solen med sin sorte silkeparasol. Når
+ :varmen blev helt uudholdelig, åbnede hun de häje knapstävler
+ :en ganske lille smule. Frokosten belv indtaget i det gränne.
 *:LESSON49_D4
 I:(4)
 D:Den var medbragt hjemmefra, omhyggeligt pakket ind i en sko-
- :töjsäske, som agurkesalaten gjorde våd. En skovtur blev vel-
+ :täjsöske, som agurkesalaten gjorde våd. En skovtur blev vel-
  :lykket, når det gode vejr holdt sig, til man var vel hjemme.
 G:E_LESSON49
 
 *:S_LESSON50
 K:12:MENU
-B:Lesson 50: Lektion 50: Folkeskolens pröve i hastighed og sikkerhed, 5
+B:Lesson 50: Lektion 50: Folkeskolens präve i hastighed og sikkerhed, 5
 *:LESSON50_D1
 I:(1)
-D:Et dovendyr föler sig kun hjemme, når det hänger i tropesko-
- :vens grene, hvor det beväger sig med en udpräget langsomhed,
+D:Et dovendyr fäler sig kun hjemme, når det hönger i tropesko-
+ :vens grene, hvor det bevöger sig med en udpröget langsomhed,
  :hvad der har givet dyret navn. Hvis et dovendyr bliver udsat
  :for fare, kan det flygte med en fart af omkring to kilometer
 *:LESSON50_D2
 I:(2)
 D:i timen, men denne hastighed bliver der kun tale om, når det
- :for alvor gälder livet. Det virker komisk med en sådan lang-
+ :for alvor gölder livet. Det virker komisk med en sådan lang-
  :somhed, men det er i virkeligheden en styrke for et dovendyr
- :at beväge sig sådan. Så er der nemlig ingen, der lägger mär-
+ :at bevöge sig sådan. Så er der nemlig ingen, der lögger mör-
 *:LESSON50_D3
 I:(3)
-D:ke til det. Dovendyret er også vanskeligt at få öje på, for-
- :di der er grönt som de blade, det hänger imellem. Ikke fordi
- :det har en grön pels, for det er der ingen dyr, der har, men
+D:ke til det. Dovendyret er også vanskeligt at få äje på, for-
+ :di der er gränt som de blade, det hönger imellem. Ikke fordi
+ :det har en grän pels, for det er der ingen dyr, der har, men
  :fordi det som det eneste dyr har alger i håret. Hvert enkelt
 *:LESSON50_D4
 I:(4)
-D:hår er forsynet med riller på langs og på tvärs, og i dem er
+D:hår er forsynet med riller på langs og på tvörs, og i dem er
  :det muligt for algerne at gro. Det sker dog ikke i en zoolo-
 G:E_LESSON50
 
@@ -2009,53 +2009,53 @@ G:MENU
 
 *:MENU
 M: "ktouch lesson: Danish (complete course)"
- :S_LESSON1 "Lektion 1. Grundstilling: asdf og jklä"
+ :S_LESSON1 "Lektion 1. Grundstilling: asdf og jklö"
  :S_LESSON2 "Lektion 2. Nye bogstaver: ecb"
  :S_LESSON3 "Lektion 3. Nye bogstaver: ghi"
  :S_LESSON4 "Lektion 4. Nye bogstaver: mno"
  :S_LESSON5 "Lektion 5. Nye bogstaver: pqr"
  :S_LESSON6 "Lektion 6. Nye bogstaver: tuvw"
- :S_LESSON7 "Lektion 7. Nye bogstaver: zxyö"
+ :S_LESSON7 "Lektion 7. Nye bogstaver: zxyä"
  :S_LESSON8 "Lektion 8. Nye bogstaver: å,.-"
- :S_LESSON9 "Lektion 9. Repetition og övelser 1"
- :S_LESSON10 "Lektion 10. Repetition og övelser 2"
- :S_LESSON11 "Lektion 11. Repetition og övelser 3"
- :S_LESSON12 "Lektion 12. Repetition og övelser 4"
- :S_LESSON13 "Lektion 13. Repetition og övelser 5"
- :S_LESSON14 "Lektion 14. Repetition og övelser 6"
- :S_LESSON15 "Lektion 15. Repetition og övelser 7"
- :S_LESSON16 "Lektion 16. Repetition og övelser 8"
- :S_LESSON17 "Lektion 17. Store bogstaver med höjre og venstre skiftenögler"
+ :S_LESSON9 "Lektion 9. Repetition og ävelser 1"
+ :S_LESSON10 "Lektion 10. Repetition og ävelser 2"
+ :S_LESSON11 "Lektion 11. Repetition og ävelser 3"
+ :S_LESSON12 "Lektion 12. Repetition og ävelser 4"
+ :S_LESSON13 "Lektion 13. Repetition og ävelser 5"
+ :S_LESSON14 "Lektion 14. Repetition og ävelser 6"
+ :S_LESSON15 "Lektion 15. Repetition og ävelser 7"
+ :S_LESSON16 "Lektion 16. Repetition og ävelser 8"
+ :S_LESSON17 "Lektion 17. Store bogstaver med häjre og venstre skiftenägler"
  :S_LESSON18 "Lektion 18. Tal 1-5"
  :S_LESSON19 "Lektion 19. Tal 6-0"
- :S_LESSON20 "Lektion 20: Repetition og övelser 9"
- :S_LESSON21 "Lektion 21: Repetition og övelser 10"
- :S_LESSON22 "Lektion 22: Repetition og övelser 11"
- :S_LESSON23 "Lektion 23: Repetition og övelser 12"
- :S_LESSON24 "Lektion 24: Repetition og övelser 13"
- :S_LESSON25 "Lektion 25: Repetition og övelser 14"
- :S_LESSON26 "Lektion 26: Repetition og övelser 15"
- :S_LESSON27 "Lektion 27: Repetition og övelser 16"
- :S_LESSON28 "Lektion 28: Repetition og övelser 17"
- :S_LESSON29 "Lektion 29: Repetition og övelser 18"
- :S_LESSON30 "Lektion 30: Repetition og övelser 19"
- :S_LESSON31 "Lektion 31: Afhjälpning af typiske fejl: ae as bv cv dk ds ea ei"
- :S_LESSON32 "Lektion 32: Afhjälpning af typiske fejl: fg gf gh hg hj ie io jh"
- :S_LESSON33 "Lektion 33: Afhjälpning af typiske fejl: kd kl lk ls mn nm nv oi"
- :S_LESSON34 "Lektion 34: Afhjälpning af typiske fejl: op på rt sd sl tr uy vb"
- :S_LESSON35 "Lektion 35: Afhjälpning af typiske fejl: vn xc yu äö öä åp ,. .,"
- :S_LESSON36 "Lektion 36: Träning i hastighed og sikkerhed, 1"
- :S_LESSON37 "Lektion 37: Träning i hastighed og sikkerhed, 2"
- :S_LESSON38 "Lektion 38: Träning i hastighed og sikkerhed, 3"
- :S_LESSON39 "Lektion 39: Träning i hastighed og sikkerhed, 4"
- :S_LESSON40 "Lektion 40: Träning i hastighed og sikkerhed, 5"
- :S_LESSON41 "Lektion 41: Träning i hastighed og sikkerhed, 6"
- :S_LESSON42 "Lektion 42: Träning i hastighed og sikkerhed, 7"
- :S_LESSON43 "Lektion 43: Träning i hastighed og sikkerhed, 8"
- :S_LESSON44 "Lektion 44: Träning i hastighed og sikkerhed, 9"
- :S_LESSON45 "Lektion 45: Träning i hastighed og sikkerhed, 10"
- :S_LESSON46 "Lektion 46: Folkeskolens pröve i hastighed og sikkerhed, 1"
- :S_LESSON47 "Lektion 47: Folkeskolens pröve i hastighed og sikkerhed, 2"
- :S_LESSON48 "Lektion 48: Folkeskolens pröve i hastighed og sikkerhed, 3"
- :S_LESSON49 "Lektion 49: Folkeskolens pröve i hastighed og sikkerhed, 4"
- :S_LESSON50 "Lektion 50: Folkeskolens pröve i hastighed og sikkerhed, 5"
+ :S_LESSON20 "Lektion 20: Repetition og ävelser 9"
+ :S_LESSON21 "Lektion 21: Repetition og ävelser 10"
+ :S_LESSON22 "Lektion 22: Repetition og ävelser 11"
+ :S_LESSON23 "Lektion 23: Repetition og ävelser 12"
+ :S_LESSON24 "Lektion 24: Repetition og ävelser 13"
+ :S_LESSON25 "Lektion 25: Repetition og ävelser 14"
+ :S_LESSON26 "Lektion 26: Repetition og ävelser 15"
+ :S_LESSON27 "Lektion 27: Repetition og ävelser 16"
+ :S_LESSON28 "Lektion 28: Repetition og ävelser 17"
+ :S_LESSON29 "Lektion 29: Repetition og ävelser 18"
+ :S_LESSON30 "Lektion 30: Repetition og ävelser 19"
+ :S_LESSON31 "Lektion 31: Afhjölpning af typiske fejl: ae as bv cv dk ds ea ei"
+ :S_LESSON32 "Lektion 32: Afhjölpning af typiske fejl: fg gf gh hg hj ie io jh"
+ :S_LESSON33 "Lektion 33: Afhjölpning af typiske fejl: kd kl lk ls mn nm nv oi"
+ :S_LESSON34 "Lektion 34: Afhjölpning af typiske fejl: op på rt sd sl tr uy vb"
+ :S_LESSON35 "Lektion 35: Afhjölpning af typiske fejl: vn xc yu öä äö åp ,. .,"
+ :S_LESSON36 "Lektion 36: Tröning i hastighed og sikkerhed, 1"
+ :S_LESSON37 "Lektion 37: Tröning i hastighed og sikkerhed, 2"
+ :S_LESSON38 "Lektion 38: Tröning i hastighed og sikkerhed, 3"
+ :S_LESSON39 "Lektion 39: Tröning i hastighed og sikkerhed, 4"
+ :S_LESSON40 "Lektion 40: Tröning i hastighed og sikkerhed, 5"
+ :S_LESSON41 "Lektion 41: Tröning i hastighed og sikkerhed, 6"
+ :S_LESSON42 "Lektion 42: Tröning i hastighed og sikkerhed, 7"
+ :S_LESSON43 "Lektion 43: Tröning i hastighed og sikkerhed, 8"
+ :S_LESSON44 "Lektion 44: Tröning i hastighed og sikkerhed, 9"
+ :S_LESSON45 "Lektion 45: Tröning i hastighed og sikkerhed, 10"
+ :S_LESSON46 "Lektion 46: Folkeskolens präve i hastighed og sikkerhed, 1"
+ :S_LESSON47 "Lektion 47: Folkeskolens präve i hastighed og sikkerhed, 2"
+ :S_LESSON48 "Lektion 48: Folkeskolens präve i hastighed og sikkerhed, 3"
+ :S_LESSON49 "Lektion 49: Folkeskolens präve i hastighed og sikkerhed, 4"
+ :S_LESSON50 "Lektion 50: Folkeskolens präve i hastighed og sikkerhed, 5"
