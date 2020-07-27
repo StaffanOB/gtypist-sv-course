@@ -25,33 +25,33 @@ D:fff jjj fff jjj fff jjj fff jjj fff jjj fff jjj fff jjj
 *:LESSON1_D2
 I:(2)
 D:fjdk fjdk fjdk fjdk fjdk fjdk fjdk fjdk fjdk fjdk fjdk
- :aaa äää aaa äää aaa äää aaa äää aaa äää aaa äää aaa äää
+ :aaa ööö aaa ööö aaa ööö aaa ööö aaa ööö aaa ööö aaa ööö
  :sss lll sss lll sss lll sss lll sss lll sss lll sss lll
- :aaa äää sss lll aaa äää sss lll aaa äää sss lll aaa äää
+ :aaa ööö sss lll aaa ööö sss lll aaa ööö sss lll aaa ööö
 *:LESSON1_D3
 I:(3)
-D:aaa äää sss lll aaa äää sss lll aaa äää sss lll aaa äää
- :aäsl aäsl aäsl aäsl aäsl aäsl aäsl aäsl aäsl aäsl aäsl
- :aäsldkfjdkslaäsldkfjdkslaäsldkfjdkslaäsldkfjdkslaä
- :aäsldkfjdkslaäsldkfjdkslaäsldkfjdkslaäsldkfjdkslaä
+D:aaa ööö sss lll aaa ööö sss lll aaa ööö sss lll aaa ööö
+ :aösl aösl aösl aösl aösl aösl aösl aösl aösl aösl aösl
+ :aösldkfjdkslaösldkfjdkslaösldkfjdkslaösldkfjdkslaö
+ :aösldkfjdkslaösldkfjdkslaösldkfjdkslaösldkfjdkslaö
 *:LESSON1_D4
 I:(4)
-D:lak kaj säd fäl aks las däk sad läk säl sal dal jas
- :lak kaj säd fäl aks las däk sad läk säl sal dal jas
- :lak kaj säd fäl aks las däk sad läk säl sal dal jas
- :laks skal kald skaf kaja saks själ kläd släk fjas kälk
+D:lak kaj söd föl aks las dök sad lök söl sal dal jas
+ :lak kaj söd föl aks las dök sad lök söl sal dal jas
+ :lak kaj söd föl aks las dök sad lök söl sal dal jas
+ :laks skal kald skaf kaja saks sjöl klöd slök fjas kölk
 *:LESSON1_D5
 I:(5)
-D:laks skal kald skaf kaja saks själ kläd släk fjas kälk
- :laks skal kald skaf kaja saks själ kläd släk fjas kälk
- :falsk sjask skala fläsk skjald afkald lakaj kajak aflad
- :falsk sjask skala fläsk skjald afkald lakaj kajak aflad
+D:laks skal kald skaf kaja saks sjöl klöd slök fjas kölk
+ :laks skal kald skaf kaja saks sjöl klöd slök fjas kölk
+ :falsk sjask skala flösk skjald afkald lakaj kajak aflad
+ :falsk sjask skala flösk skjald afkald lakaj kajak aflad
 *:LESSON1_D6
 I:(6)
-D:falsk sjask skala fläsk skjald afkald lakaj kajak aflad
- :säk käd alf läs kala lajka affald sjakal kasak jaffa
- :säk käd alf läs kala lajka affald sjakal kasak jaffa
- :säk käd alf läs kala lajka affald sjakal kasak jaffa
+D:falsk sjask skala flösk skjald afkald lakaj kajak aflad
+ :sök köd alf lös kala lajka affald sjakal kasak jaffa
+ :sök köd alf lös kala lajka affald sjakal kasak jaffa
+ :sök köd alf lös kala lajka affald sjakal kasak jaffa
 G:E_LESSON1
 
 *:S_LESSON2
@@ -742,12 +742,21 @@ K:12:MENU
 B:                  Lesson 19 - A: Lektion 19 A. Tal 6-0
 *:LESSON20_D1
 I:(1)
-D:i och en av som är att på den till
- :till som en i och av att den på är
- :och i av den en till är på som att
- :i och en av som är att på den till
- :till som en i och av att den på är
- :och i av den en till är på som att
+D:ha kl dag jag ska alla skall första skulle svenska allt hade säger 
+ :andra sedan mellan hans bland där för har här sig till detta eller 
+ :stora sverige några också bara fick sina vara vill finns många 
+ :ha kl dag jag ska alla skall första skulle svenska allt hade säger 
+ :andra sedan mellan hans bland där för har här sig till detta eller 
+ :stora sverige några också bara fick sina vara vill finns många 
+I:(2)
+D:han kan vad de då få så är att det får går hur sitt efter kronor måste 
+ :något under varit kommer mycket blir från utan över någon bli 
+ :bra dem den hon med nya när och sin som var vid blev även av än man 
+ :i på ut år ett tre upp procent inte mer mot två en in nu om vi men
+ :han kan vad de då få så är att det får går hur sitt efter kronor måste 
+ :något under varit kommer mycket blir från utan över någon bli 
+ :bra dem den hon med nya när och sin som var vid blev även av än man 
+ :i på ut år ett tre upp procent inte mer mot två en in nu om vi men
 G:E_LESSON19A
 
 # jump-table

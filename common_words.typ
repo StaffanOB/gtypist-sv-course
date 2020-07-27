@@ -1,15 +1,7 @@
-# Swedish Complete Touch Typing Cource
+# Touch typing: Most common English words 
 #     Created by Staffan Björnson <staffan@toor.se>
-#     Date: 2019-03-21
+#     Date: 2020-07-26
 #
-# This work is based on the work of:
-#    "ktouch -  Danish (complete course)"
-#        Gunther Strube,  gstrube@tiscali.dk og
-#        Anja Lysholm, anjal@danbbs.d
-#
-#    "Lär maskinskrivning i Folke- og Ungdomsskolen"
-#        Kamma Jensen & Jytte Möller
-#        ISBN 87-17-02200-2
 
 G:MENU
 
@@ -37,7 +29,7 @@ D:will up other about out many then them these so some her
 # ==============================================================================
 *:S_LESSON2
 K:12:MENU
-B:              Lesson 2: Lektion 2. Nya bokstäver: pqr
+B:         Lesson 2: Most common words 51 to 100 
 *:LESSON2_D1
 I:(1)
 D:p
