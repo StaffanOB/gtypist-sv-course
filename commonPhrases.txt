@@ -1,50 +1,350 @@
-How is it going? 
-Long time no see! 
-What have you been up to? 
-Can’t complain 
-How do you know? 
-That’s a good one = that’s a good joke! 
-Its very kind of you! 
-Thank you anyway 
-Thank you in advance! 
-No worries 
-What’s going on? 
-Did I get you right? 
-Don’t take it to heart 
-I didn’t catch the last word 
-Sorry, I wasn’t listening 
-It doesn’t matter 
-Fingers crossed! 
-Oh, that. That explains it. 
-Things happen 
-Sorry to bother you 
-I’ll be with you in a minute 
-Where were we? 
-I’m sorry, I didn’t catch you 
-Lucky you! 
-I freaked out = to become very angry, scared or excited
-Good for you! 
-You’ve got to be kidding me! 
-Cheer up! 
-Come on, you can do it! 
-Keep up the good work! 
-It's not the end of the world 
-That’s lit! = That’s amazing! 
-There you go! 
-44. Not a bit! 
-There is no room for doubt 
-I’ll text you! 
-it’s not worth it! 
-You rock! 
-You should go the extra mile… 
-Step up your game = Start performing better 
-Pull yourself together = Calm down and behave normally 
-You sold me! = You convinced me on something 
-Couldn’t care less = used to express total lack of interest in something 
-This is a no
-You screwed up 
-You are driving me nuts! 
-Can you cover me? = Can you work in my place? 
-I’d better be going 
-Thank heavens it’s Friday 
-Take care! 
+*:LESSON3_D
+I:(X)
+ :How is it going? 
+ :How is it going? 
+ :How is it going? 
+ :How is it going? 
+ :How is it going? 
+*:LESSON3_D
+I:(X)
+ :Long time no see! 
+ :Long time no see! 
+ :Long time no see! 
+ :Long time no see! 
+ :Long time no see! 
+*:LESSON3_D
+I:(X)
+D:What have you been up to? 
+ :What have you been up to? 
+ :What have you been up to? 
+ :What have you been up to? 
+ :What have you been up to? 
+*:LESSON3_D
+I:(X)
+ :Can’t complain 
+ :Can’t complain 
+ :Can’t complain 
+ :Can’t complain 
+ :Can’t complain 
+*:LESSON3_D
+I:(X)
+ :How do you know? 
+ :How do you know? 
+ :How do you know? 
+ :How do you know? 
+ :How do you know? 
+*:LESSON3_D
+I:(X)
+ :That’s a good one 
+ :That’s a good one 
+ :That’s a good one 
+ :That’s a good one 
+ :That’s a good one 
+*:LESSON3_D
+I:(X)
+ :Its very kind of you! 
+ :Its very kind of you! 
+ :Its very kind of you! 
+ :Its very kind of you! 
+ :Its very kind of you! 
+*:LESSON3_D
+I:(X)
+ :Thank you anyway 
+ :Thank you anyway 
+ :Thank you anyway 
+ :Thank you anyway 
+ :Thank you anyway 
+*:LESSON3_D
+I:(X)
+D:Thank you in advance! 
+ :Thank you in advance! 
+ :Thank you in advance! 
+ :Thank you in advance! 
+ :Thank you in advance! 
+*:LESSON3_D
+I:(X)
+D:No worries 
+ :No worries 
+ :No worries 
+ :No worries 
+ :No worries 
+*:LESSON3_D
+I:(X)
+D:What’s going on? 
+ :What’s going on? 
+ :What’s going on? 
+ :What’s going on? 
+ :What’s going on? 
+*:LESSON3_D
+I:(X)
+D:Did I get you right? 
+ :Did I get you right? 
+ :Did I get you right? 
+ :Did I get you right? 
+ :Did I get you right? 
+*:LESSON3_D
+I:(X)
+D:Don’t take it to heart 
+ :Don’t take it to heart 
+ :Don’t take it to heart 
+ :Don’t take it to heart 
+ :Don’t take it to heart 
+*:LESSON3_D
+I:(X)
+D:I didn’t catch the last word 
+ :I didn’t catch the last word 
+ :I didn’t catch the last word 
+ :I didn’t catch the last word 
+ :I didn’t catch the last word 
+*:LESSON3_D
+I:(X)
+D:Sorry, I wasn’t listening 
+ :Sorry, I wasn’t listening 
+ :Sorry, I wasn’t listening 
+ :Sorry, I wasn’t listening 
+ :Sorry, I wasn’t listening 
+*:LESSON3_D
+I:(X)
+D:It doesn’t matter 
+ :It doesn’t matter 
+ :It doesn’t matter 
+ :It doesn’t matter 
+ :It doesn’t matter 
+*:LESSON3_D
+I:(X)
+D:Fingers crossed! 
+ :Fingers crossed! 
+ :Fingers crossed! 
+ :Fingers crossed! 
+ :Fingers crossed! 
+*:LESSON3_D
+I:(X)
+D:Oh, that. That explains it. 
+ :Oh, that. That explains it. 
+ :Oh, that. That explains it. 
+ :Oh, that. That explains it. 
+ :Oh, that. That explains it. 
+*:LESSON3_D
+I:(X)
+D:Things happen 
+ :Things happen 
+ :Things happen 
+ :Things happen 
+ :Things happen 
+*:LESSON3_D
+I:(X)
+D:Sorry to bother you 
+ :Sorry to bother you 
+ :Sorry to bother you 
+ :Sorry to bother you 
+ :Sorry to bother you 
+*:LESSON3_D
+I:(X)
+D:I’ll be with you in a minute 
+ :I’ll be with you in a minute 
+ :I’ll be with you in a minute 
+ :I’ll be with you in a minute 
+ :I’ll be with you in a minute 
+*:LESSON3_D
+I:(X)
+D:Where were we? 
+ :Where were we? 
+ :Where were we? 
+ :Where were we? 
+ :Where were we? 
+*:LESSON3_D
+I:(X)
+D:I’m sorry, I didn’t catch you 
+ :I’m sorry, I didn’t catch you 
+ :I’m sorry, I didn’t catch you 
+ :I’m sorry, I didn’t catch you 
+ :I’m sorry, I didn’t catch you 
+*:LESSON3_D
+I:(X)
+D:Lucky you! 
+ :Lucky you! 
+ :Lucky you! 
+ :Lucky you! 
+ :Lucky you! 
+*:LESSON3_D
+I:(X)
+D:I freaked out 
+ :I freaked out 
+ :I freaked out 
+ :I freaked out 
+ :I freaked out 
+*:LESSON3_D
+I:(X)
+D:Good for you! 
+ :Good for you! 
+ :Good for you! 
+ :Good for you! 
+ :Good for you! 
+*:LESSON3_D
+I:(X)
+D:You’ve got to be kidding me! 
+ :You’ve got to be kidding me! 
+ :You’ve got to be kidding me! 
+ :You’ve got to be kidding me! 
+ :You’ve got to be kidding me! 
+*:LESSON3_D
+I:(X)
+D:Cheer up! 
+ :Cheer up! 
+ :Cheer up! 
+ :Cheer up! 
+ :Cheer up! 
+*:LESSON3_D
+I:(X)
+D:Come on, you can do it! 
+ :Come on, you can do it! 
+ :Come on, you can do it! 
+ :Come on, you can do it! 
+ :Come on, you can do it! 
+*:LESSON3_D
+I:(X)
+D:Keep up the good work! 
+ :Keep up the good work! 
+ :Keep up the good work! 
+ :Keep up the good work! 
+ :Keep up the good work! 
+*:LESSON3_D
+I:(X)
+D:It's not the end of the world 
+ :It's not the end of the world 
+ :It's not the end of the world 
+ :It's not the end of the world 
+ :It's not the end of the world 
+*:LESSON3_D
+I:(X)
+D:That’s lit! 
+ :That’s lit! 
+ :That’s lit! 
+ :That’s lit! 
+ :That’s lit! 
+*:LESSON3_D
+I:(X)
+D:There you go! 
+ :There you go! 
+ :There you go! 
+ :There you go! 
+ :There you go! 
+*:LESSON3_D
+I:(X)
+D:Not a bit! 
+ :Not a bit! 
+ :Not a bit! 
+ :Not a bit! 
+ :Not a bit! 
+*:LESSON3_D
+I:(X)
+D:There is no room for doubt 
+ :There is no room for doubt 
+ :There is no room for doubt 
+ :There is no room for doubt 
+ :There is no room for doubt 
+*:LESSON3_D
+I:(X)
+D:I’ll text you! 
+ :I’ll text you! 
+ :I’ll text you! 
+ :I’ll text you! 
+ :I’ll text you! 
+*:LESSON3_D
+I:(X)
+D:it’s not worth it! 
+ :it’s not worth it! 
+ :it’s not worth it! 
+ :it’s not worth it! 
+ :it’s not worth it! 
+*:LESSON3_D
+I:(X)
+D:You rock! 
+ :You rock! 
+ :You rock! 
+ :You rock! 
+ :You rock! 
+*:LESSON3_D
+I:(X)
+D:You should go the extra mile… 
+ :You should go the extra mile… 
+ :You should go the extra mile… 
+ :You should go the extra mile… 
+ :You should go the extra mile… 
+*:LESSON3_D
+I:(X)
+D:Step up your game 
+ :Step up your game 
+ :Step up your game 
+ :Step up your game 
+ :Step up your game 
+*:LESSON3_D
+I:(X)
+D:Pull yourself together 
+ :Pull yourself together 
+ :Pull yourself together 
+ :Pull yourself together 
+ :Pull yourself together 
+*:LESSON3_D
+I:(X)
+D:You sold me!
+ :You sold me!
+ :You sold me!
+ :You sold me!
+ :You sold me!
+*:LESSON3_D
+I:(X)
+D:Couldn’t care less
+ :Couldn’t care less
+ :Couldn’t care less
+ :Couldn’t care less
+ :Couldn’t care less
+*:LESSON3_D
+I:(X)
+D:This is a no
+ :This is a no
+ :This is a no
+ :This is a no
+ :This is a no
+*:LESSON3_D
+I:(X)
+D:You screwed up 
+ :You screwed up 
+ :You screwed up 
+ :You screwed up 
+ :You screwed up 
+*:LESSON3_D
+I:(X)
+D:You are driving me nuts! 
+ :You are driving me nuts! 
+ :You are driving me nuts! 
+ :You are driving me nuts! 
+ :You are driving me nuts! 
+*:LESSON3_D
+I:(X)
+D:Can you cover me?
+ :Can you cover me?
+ :Can you cover me?
+ :Can you cover me?
+ :Can you cover me?
+*:LESSON3_D
+I:(X)
+D:I’d better be going 
+ :I’d better be going 
+ :I’d better be going 
+ :I’d better be going 
+ :I’d better be going 
+*:LESSON3_D
+I:(X)
+D:Thank heavens it’s Friday 
+ :Thank heavens it’s Friday 
+ :Thank heavens it’s Friday 
+ :Thank heavens it’s Friday 
+ :Thank heavens it’s Friday 
+*:LESSON3_D
+I:(X)
+D:Take care! 
+ :Take care! 
+ :Take care! 
+ :Take care! 
+ :Take care! 

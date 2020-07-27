@@ -38,18 +38,152 @@ I:(2)
 D:g
 
 # ==============================================================================
-# Lesson 2
+# Lesson 3
 # ==============================================================================
 *:S_LESSON3
 K:12:MENU
-B:              Lesson 3: Lektion 3. Nya bokstäver: pqr
+B:         Lesson 3: Common phrasess
+ 
 *:LESSON3_D1
 I:(1)
-D:p
+D:How is it going? 
+ :How is it going? 
+ :How is it going? 
+ :How is it going? 
+ :How is it going? 
 *:LESSON3_D2
 I:(2)
-D:g
-
+D:Long time no see! 
+ :Long time no see! 
+ :Long time no see! 
+ :Long time no see! 
+ :Long time no see! 
+*:LESSON3_D3
+I:(X)
+D:How is it going? 
+ :How is it going? 
+ :How is it going? 
+ :How is it going? 
+ :How is it going? 
+*:LESSON3_D4
+I:(X)
+D:Long time no see! 
+ :Long time no see! 
+ :Long time no see! 
+ :Long time no see! 
+ :Long time no see! 
+*:LESSON3_D5
+I:(X)
+D:What have you been up to? 
+ :What have you been up to? 
+ :What have you been up to? 
+ :What have you been up to? 
+ :What have you been up to? 
+*:LESSON3_D6
+I:(X)
+D:Can’t complain 
+ :Can’t complain 
+ :Can’t complain 
+ :Can’t complain 
+ :Can’t complain 
+*:LESSON3_D7
+I:(X)
+D:How do you know? 
+ :How do you know? 
+ :How do you know? 
+ :How do you know? 
+ :How do you know? 
+*:LESSON3_D8
+I:(X)
+D:That’s a good one 
+ :That’s a good one 
+ :That’s a good one 
+ :That’s a good one 
+ :That’s a good one 
+*:LESSON3_D9
+I:(X)
+D:Its very kind of you! 
+ :Its very kind of you! 
+ :Its very kind of you! 
+ :Its very kind of you! 
+ :Its very kind of you! 
+*:LESSON3_D10
+I:(X)
+D:Thank you anyway 
+ :Thank you anyway 
+ :Thank you anyway 
+ :Thank you anyway 
+ :Thank you anyway 
+*:LESSON3_D11
+I:(X)
+D:Thank you in advance! 
+ :Thank you in advance! 
+ :Thank you in advance! 
+ :Thank you in advance! 
+ :Thank you in advance! 
+*:LESSON3_D12
+I:(X)
+D:No worries 
+ :No worries 
+ :No worries 
+ :No worries 
+ :No worries 
+*:LESSON3_D13
+I:(X)
+D:What’s going on? 
+ :What’s going on? 
+ :What’s going on? 
+ :What’s going on? 
+ :What’s going on? 
+*:LESSON3_D14
+I:(X)
+D:Did I get you right? 
+ :Did I get you right? 
+ :Did I get you right? 
+ :Did I get you right? 
+ :Did I get you right? 
+*:LESSON3_D15
+I:(X)
+D:Don’t take it to heart 
+ :Don’t take it to heart 
+ :Don’t take it to heart 
+ :Don’t take it to heart 
+ :Don’t take it to heart 
+*:LESSON3_D16
+I:(X)
+D:I didn’t catch the last word 
+ :I didn’t catch the last word 
+ :I didn’t catch the last word 
+ :I didn’t catch the last word 
+ :I didn’t catch the last word 
+*:LESSON3_D17
+I:(X)
+D:Sorry, I wasn’t listening 
+ :Sorry, I wasn’t listening 
+ :Sorry, I wasn’t listening 
+ :Sorry, I wasn’t listening 
+ :Sorry, I wasn’t listening 
+*:LESSON3_D18
+I:(X)
+D:It doesn’t matter 
+ :It doesn’t matter 
+ :It doesn’t matter 
+ :It doesn’t matter 
+ :It doesn’t matter 
+*:LESSON3_D19
+I:(X)
+D:Fingers crossed! 
+ :Fingers crossed! 
+ :Fingers crossed! 
+ :Fingers crossed! 
+ :Fingers crossed! 
+*:LESSON3_D20
+I:(X)
+D:Oh, that. That explains it. 
+ :Oh, that. That explains it. 
+ :Oh, that. That explains it. 
+ :Oh, that. That explains it. 
+ :Oh, that. That explains it. 
 # ==============================================================================
 # jump-table
 Q: Do you want to continue to lesson 1 [Y/N] ?
@@ -137,5 +271,5 @@ N:MENU
 *:MENU
 M: "ktouch lesson: English"
  :S_LESSON1 "1 to 50 most common words"
-# :S_LESSON2 "51 to 100 most common words"
-# :S_LESSON3 "Lektion 03: Nya bokstäver ecb"
+ :S_LESSON2 "51 to 100 most common words"
+ :S_LESSON3 "Common Phrases"
